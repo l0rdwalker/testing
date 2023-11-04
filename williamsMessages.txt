@@ -1,0 +1,66 @@
+
+
+2023-09-04 00:00:00 week: 6
+William Walker: Doesn't have to be those specific questions, but that kinda thing. Just more context on how he envisions the fully implemented system
+William Walker: I was hoping to talk about the current state/plan for moderation. E.g. how exactly automatic moderation will be used in a practical sense. Will human-moderators have access to a separate window to view flagged messages? Will human-moderators be able to view all flagged messages or just those in their local area? Do we want content flagged with a high degree of certainty to be removed immediately. Stuff in that general domain.
+William Walker: Sorry to be a bother, but I can't make todays meeting. If someone records it I'll watch it latter to keep in the loop with whats going on
+
+
+2023-09-11 00:00:00 week: 7
+William Walker: I remember being able to build it weeks ago tbh
+William Walker: Did you need to build the project before you could run it? Or did it just pop off out of the box?
+William Walker: Yea na fam. I think my npm version is not aokay. I'll try updating and report back
+William Walker: I would have assumed so as well, but I run into the same kind of errors if I execute the npm equivalent set of commands
+William Walker: I assume the general steps are ment to be run 'yarn install', then 'yarn run build' and then boot the solution with 'yarn run start'. All the correct keys should already be in place, as I pulled from main.
+William Walker: I'm running into a couple. I can install all the dependency's with yarn just fine. But when I try to build the solution I error out with "warn  - Restarted collecting page data for [object Object] because it took more than 60 seconds". But I cant run yarn start because there is no optimised build. If I try to use npm I just get a tone of dependency conflicts
+William Walker: I'm having troubles getting the nextjs-frontend-ui to boot up. What versions of Node are u guys using?
+
+
+2023-09-18 00:00:00 week: 8
+William Walker: Even if you are also an MP and Admin
+William Walker: If you are a citizen then it will not display the new survey related functionality
+William Walker: Oh wait I got it Pratul Singh Raghava, make sure the only user groups you are associated with is MP and Admin
+William Walker: Assuming the correct privileges, how would an admin user create a new survey&gt;
+William Walker: So, progress. You can *kinda* link question-selections to other questions. It's buggy, the first question isn't detected for some reason, and the actual linkages aren't yet saved to the question set. All off the questions are submitted at once on submit. So I'm highly confident that we can do all the question routeing on the front end. Very pleased.
+William Walker: So, we don't need to run the 'npm run dev' every time we want to display a change. Which for me at least took nearly 20 mins each time
+William Walker: Pog news incoming, I don't know if you guys already figured out this issue. But I've managed to get hot-reloading to work for next.js on the frontend codebase.
+William Walker: I've corrected some AQS API code and now everyone who is an admin should be able to post surveys. But you need to make sure to include your credentials in the admin and MP database. NOT the user groups (well, you need that too) but a table called admin and MP in the DynamoDB tables
+
+
+2023-09-25 00:00:00 week: 9
+William Walker: This is what I've got so far for the replicated, refactored survey. Visual elements will follow functionality.
+William Walker: Should we have a meeting tomorrow just to touch base?
+William Walker: I have pushed these changes to a new branch
+William Walker: The current code for the survey is really very difficult to work with. While I got some rudimentary logic going the degree of effective change is going to be very difficult as is. I've been replicating the survey react components such that we can introduce the new functionality as needed. So far, nearly everything is replicated apart from deleting questions and the smart-linkage between answers the further questions displayed to the user.
+
+
+2023-10-02 00:00:00 week: 10
+William Walker: I think its the older version of captcha he's looking for
+William Walker: He stated that he wasn't a fan of needing to select busses and wotnot to verify that he's not a robot. I think he just wants the simple I am not a robot click button.
+William Walker: bet bet
+William Walker: For the group work section of the presentation, we're meant to discuss what we're planning to do in the coming weeks? Or what we have done in the past couple weeks?&gt;
+William Walker: These slides look great! I'll chuck in all the survey related stuff we have so far
+William Walker: Does anyone know where the presentation slides are? I wanna add to them
+William Walker: I have no idea
+William Walker: Tbh I saw others doing it that way and thought I should do the same
+William Walker: Sounds like he just hates captcha like systems in general. Not sure if a system exists that he would necessarily like
+
+
+2023-10-09 00:00:00 week: 11
+William Walker: I’ll discuss the current survey progression alongside a quick demonstration 
+William Walker: Bet bet I'll make sure to be there early
+William Walker: Can do, I’m hoping to finalize some development on survey stuff tomorrow before doing so. 
+William Walker: Fuck me ok 
+
+
+2023-10-16 00:00:00 week: 12
+William Walker: I think I've crossed into all three.
+William Walker: All my tests ensure that react components are properly INTERGREATED, archived through UI manipulations by an automated system, within a jest UNIT TESTing framework. I have no idea what category I should put survey related tests.
+William Walker: My guess would be something like 'As a user, I want to be able to change the title of the survey, so that I can provide an appropriate title for the survey', I'd include a screen shot of the onscreen element which is editable, in accordance to the use story.
+William Walker: I talk too much my bad homies
+William Walker: On it
+William Walker: Do you guys reckon that ux testing would be accepted? As in, make a bunch of people try out the system. Record their interactions and analyze the results? Or do you reckon its unit tests or go home?
+William Walker: Na we got zip files the next guys can get zip files. They can inherit our pain.
+
+
+2023-10-23 00:00:00 week: 13

@@ -1,0 +1,42 @@
+
+
+2023-09-04 00:00:00 week: 6
+
+
+2023-09-11 00:00:00 week: 7
+Ayushmaan Tomar: Client meeting Recording :- 12th September 2023, 4:00 pm
+
+
+2023-09-18 00:00:00 week: 8
+Ayushmaan Tomar: It's best I do that with you
+Ayushmaan Tomar: I have written what all it's needed in security research document but summary of that is to create new lambda function using SES and add a trigger in user pool.
+Ayushmaan Tomar: Pratul Singh Raghava I have written the code for new user login but it needs to add something to user pool base.
+
+
+2023-09-25 00:00:00 week: 9
+
+
+2023-10-02 00:00:00 week: 10
+Ayushmaan Tomar: Lemme know if anything else is needed
+Ayushmaan Tomar: Almost done with presentation , here's the link
+Ayushmaan Tomar: <https://www.canva.com/design/DAFvBqu_k7o/s4hvMcKB23Yp98WVzQbIwA/edit?utm_content=DAFvBqu_k7o&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton|https://www.canva.com/design/DAFvBqu_k7o/s4hvMcKB23Yp98WVzQbIwA/edit?utm_content=DA[…]m_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton>
+Ayushmaan Tomar: Pratul Singh Raghava Alexis Lee just need you guys to write the group work
+Ayushmaan Tomar: Anything we can add in testing ?? Rest seems to be done
+Ayushmaan Tomar: And also any specific displine knowledge applied
+Ayushmaan Tomar: Ez , thanks for the heads up
+Ayushmaan Tomar: Finished my Individual part and group part is also seems to be done so have a look through that as well.
+Ayushmaan Tomar: Pratul Singh Raghava Zeeshan Ansari Allen Burias Your Individual part is still left so complete that asap since progress report is due tomorrow.
+Ayushmaan Tomar: yeahhh , I am doing that rn. Also can you explain the issues with AWS in key issues since thats the biggest one we have
+
+
+2023-10-09 00:00:00 week: 11
+Ayushmaan Tomar: Alexis Lee Done with non-functional req and presentation formatting also looks complete , lemme know if anything else is required.
+Ayushmaan Tomar: Allen Burias can you also do acceptance criteria based on your implementation (Slide 7,8)
+
+
+2023-10-16 00:00:00 week: 12
+Ayushmaan Tomar: Done with acceptance tests and criterias , just need frontend and surveys user stories and demos.
+Ayushmaan Tomar: Tips for assignments • Presentation via zoom meeting with special cons if needed.  • Submit research doucments in bitbucket. • For Individual report minor  :- Informal evidence can be used. • For discpline knowledge :- use the evidence of where you applied it.
+
+
+2023-10-23 00:00:00 week: 13

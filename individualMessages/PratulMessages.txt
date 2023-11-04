@@ -1,0 +1,79 @@
+
+
+2023-09-04 00:00:00 week: 6
+Pratul Singh Raghava: Client Meeting : 05 Sep 4PM
+Pratul Singh Raghava: F16_02 : The other group that could have caused the AWS issue
+Pratul Singh Raghava: <https://uni-sydney.zoom.us/j/83849668559>
+
+
+2023-09-11 00:00:00 week: 7
+Pratul Singh Raghava: Oh yeah for this error just go `npm install i --force`
+Pratul Singh Raghava: Did somebody call tech support?:saluting_face:
+Pratul Singh Raghava: I've created a new UserPool for us to experiment around with security stuff. Here are the new UserPoolID and ClientID :  1. *UserPoolID* : _ap-southeast-2_wWjdafdNy_ 2. *ClientID* : _m25b27nvhnujsjnso51ldqto7_ You can change these in : _nextjs-frontend-ui/src/aws/cognito/UserPool.ts_
+
+
+2023-09-18 00:00:00 week: 8
+Pratul Singh Raghava: Ah I see
+Pratul Singh Raghava: Here's the link to the Figma designs for the Surveys page : <https://www.figma.com/file/rSJ2K8E09pb7nUAF1Tdjpz/Untitled?type=design&amp;node-id=0%3A1&amp;mode=design&amp;t=DcovvxMZgd5rDsSZ-1>
+Pratul Singh Raghava: In that case, it doesn't make sense to have XP roles for Week 12 and Week 13
+Pratul Singh Raghava: I just realised that the project development will only go on till Week 11 since the Final Report is due on the monday of Week 12
+Pratul Singh Raghava: I expected it to be, but it was just yet another version of the website that we haven't seen so far
+Pratul Singh Raghava: Surprisingly not
+Pratul Singh Raghava: So no help
+Pratul Singh Raghava: He showed me the Vercel page he had access to but it has no git repository linked to it and no environment variables in it as well
+Pratul Singh Raghava: I'm meeting with Eddie again right now, if anybody wants to join : <https://uni-sydney.zoom.us/j/82773840176>
+Pratul Singh Raghava: This is the meeting link : <https://us05web.zoom.us/j/82649592569?pwd=2ijREXi1OkypH6AZhcfw1S4TnyiPFb.1>
+Pratul Singh Raghava: William Walker Are you working with the `stg-surveys` table on DynamoDB or `Surveys`?
+Pratul Singh Raghava: Hmmm seems complicated, why don't you show it to me before or after the client meeting if you're free
+Pratul Singh Raghava: What's your requirement exactly? What do you want to use?
+Pratul Singh Raghava: The environment variables are supposed to be added to the vercel platform so that the code can use it when being hosted, but since we're running this locally rather than on Vercel, it's a bit different
+
+
+2023-09-25 00:00:00 week: 9
+
+
+2023-10-02 00:00:00 week: 10
+Pratul Singh Raghava: Notes from today's meeting :  1. _ReCAPTCHA_ :     a. Client not very keen about the current implementation     b. Client wants us to explore alternative options that are not picture selection based 2. _Figma Designs_ :     a. Client impressed with current designs     b. Client asked us to refer to the figma designs supplied with the codebase as well 3. _Moderation Demo_ :      a. Client impressed with the prototype     b. Client inquired about the model used to implement it     c. No further comments on it by the Client 4. _Documentation_ :      a. Client would highly appreciate if we could document our work     b. Basically, make a document outlining everything we have changed with the code     c. Also, document changes made to and learnings about AWS
+Pratul Singh Raghava: William Walker Just a reminder, you will have to start the meeting yourself before everybody else can join
+Pratul Singh Raghava: I just discovered yet another version of this website : <https://feature-dev-config.d19m3wnttsadv3.amplifyapp.com>
+Pratul Singh Raghava: Sure, I'll do that!
+Pratul Singh Raghava: Our agenda for today's meeting is :  1. Showcase prototype for Proposal Creation (Alexis) 2. Showcase prototype for Summarising News Updates (Fawaz) 3. Discuss ReCAPTCHA limitations (Allen) 4. Showcase Figma designs for UI (Zeeshan) 5. Showcase progress on Logic Flow in Proposals (William) 6. Discuss efforts in running AWS locally (Pratul) 7. Discuss progress in New User Login Notification System (Ayushmaan)
+Pratul Singh Raghava: Once again, the meeting details are :  Link : <https://us05web.zoom.us/j/82649592569?pwd=2ijREXi1OkypH6AZhcfw1S4TnyiPFb.1> Password : 9Hkwp2
+Pratul Singh Raghava: Our client meeting for today will be at 2:15 instead of 2:00 as per the client's request
+Pratul Singh Raghava: Is there a particular reason why we are putting pictures in-text, instead of linking them to the appendix?
+Pratul Singh Raghava: Sure thing, I'm on it!
+Pratul Singh Raghava: He gave the example of a supposed method that AliBaba uses which is just like a slider, but he just said look into more options
+Pratul Singh Raghava: So overall, he wasn't very clear about what he wants but its definitely not the current implementation
+Pratul Singh Raghava: I think he said he wasn't keen on the old text captcha because at times he couldn't understand what it was
+Pratul Singh Raghava: I've submitted the formatted report and presentation
+Pratul Singh Raghava: I'm just finishing off the formatting of the report
+Pratul Singh Raghava: The report and presentation are good to go
+Pratul Singh Raghava: It's all good, everything's done
+Pratul Singh Raghava: What does "External APIs might not work" pertain to?
+Pratul Singh Raghava: Sure
+Pratul Singh Raghava: Should we just fill in Alexis' part for her since she's sick?
+Pratul Singh Raghava: On it:saluting_face:
+
+
+2023-10-09 00:00:00 week: 11
+Pratul Singh Raghava: I'll talk about my documentation efforts and the review of the other team's code
+Pratul Singh Raghava: Just a reminder people, Client Meeting at 2PM today!
+Pratul Singh Raghava: Link : <https://us05web.zoom.us/j/82649592569?pwd=2ijREXi1OkypH6AZhcfw1S4TnyiPFb.1> Password : 9Hkwp2
+Pratul Singh Raghava: Especially since these are all worth double the marks than the ones before
+Pratul Singh Raghava: Yep, just need to make the required modifications as per the tutor feedback
+Pratul Singh Raghava: We have :  1. Final Group Report : 23rd Oct (W12 Monday) 2. Final Client Demo : 24th Oct (W12 Tuesday) 3. Final Project Presentation : 26th Oct (W12 Thursday) 4. Final Individual Report : 30th Oct (W13 Monday) [Extendable with Simple Extension]
+
+
+2023-10-16 00:00:00 week: 12
+Pratul Singh Raghava: Yeah we need to package the code in a deployable version and ask Eddie how he wants it
+Pratul Singh Raghava: Could you elaborate on what exactly you mean? Like transferring the repository from us to future developers?
+Pratul Singh Raghava: Let's ask Eddie first and then we can send him a calendar invitation later
+Pratul Singh Raghava: Yeah
+Pratul Singh Raghava: 1. Client wants to set up a GitHub repository to share the code at the end of the project 2. Wednesday 3-4PM is the proposed time by the client for the final demo
+Pratul Singh Raghava: William Walker You will have to start the meeting
+Pratul Singh Raghava: Link : <https://us05web.zoom.us/j/82649592569?pwd=2ijREXi1OkypH6AZhcfw1S4TnyiPFb.1> Password : 9Hkwp2
+Pratul Singh Raghava: I think any form of testing works, but unit tests would be a must I guess
+Pratul Singh Raghava: God I hope he doesn't say Zip files again
+
+
+2023-10-23 00:00:00 week: 13

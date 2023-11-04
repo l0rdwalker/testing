@@ -1,0 +1,49 @@
+
+
+2023-09-04 00:00:00 week: 6
+Alexis Lee: <https://www.canva.com/design/DAFttv7ZCL8/2KRZuq6Zpb_9EIibT3LLdg/edit?utm_content=DAFttv7ZCL8&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton|https://www.canva.com/design/DAFttv7ZCL8/2KRZuq6Zpb_9EIibT3LLdg/edit?utm_content=DA[…]m_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton> I tried it with the canva slides but a version of it is in the W8 presentation folder
+Alexis Lee: I’ve created the slides for the client demo presentation. Can everyone have a look and see if it needs anything added or is missing something from the criteria?
+
+
+2023-09-11 00:00:00 week: 7
+Alexis Lee: Fawaz Al Khreisha and I will work on ‘RESEARCH: AI Facilitator for Proposal Co-Creation and Iteration’ this extra scope for this week!
+
+
+2023-09-18 00:00:00 week: 8
+Alexis Lee: Me and Fawaz Al Khreisha basically worked on the researched on the benefits and drawbacks on co-creation and what prototypes we can create for the scope. We are planning to implement prototypes for them in the following week and maybe apply it to the actual codebase to see how it works :)
+Alexis Lee: Weirdddd :scream: 
+
+
+2023-09-25 00:00:00 week: 9
+
+
+2023-10-02 00:00:00 week: 10
+Alexis Lee: Is there anything i can help with 
+Alexis Lee: Sorry just woke up. Whats the group work part? 
+
+
+2023-10-09 00:00:00 week: 11
+Alexis Lee: Do we all know what we need to talk about for the meeting?
+Alexis Lee: Allen Burias Fawaz Al Khreisha William Walker: Can you guys add the demo videos your part in the ppt? It would be great if its short as possible! Fawaz Al Khreisha: Can you add a user story formatted functional requirement bullet point for your work? I wasn’t too sure what your part does since u changed it :sweat: Ayushmaan Tomar: Can you add points for non-functional slides in user story format for the new stuff we are demoing? Pratul Singh Raghava: Can you add screenshots of the final(?) code document and add the system architecture? If we do this we’re done with the ppt. It would be great it everyone can check the rest of the stuff. Thanks :))
+Alexis Lee: I think its fixed now. Can someone check please?
+Alexis Lee: Ooops I’ll fix that
+Alexis Lee: Allen Burias Which document are you talking about?
+Alexis Lee: Can the remaining people start on the final report for this week while doing more research for surveys etc.?
+Alexis Lee: Me and Ayush are almost done with the presentation except for the system architecture part which Pratul Singh Raghava can do whilst doing the final documentation thing.
+Alexis Lee: Oh my, we should def start early and apply those feedbacks 
+Alexis Lee: The group and individual report should have the same format as last time right? Should get a head start on those?
+Alexis Lee: We don’t have anything due till W11 (Oct23rd) right 
+Alexis Lee: Sounds good :+1:  
+
+
+2023-10-16 00:00:00 week: 12
+Alexis Lee: Is everyone okay with wed 2pm?
+Alexis Lee: I think we do
+Alexis Lee: It is due Monday but wanna get it done early to check if we have all the stuff
+Alexis Lee: <!everyone> Is it possible to get most of the report done by Saturday?
+Alexis Lee: For 2.1 Overview, does anyone know what this means? What screenshots? • For each type of user, a small selection of screen shots should be provided which show the core functionality of the system via user scenario walkthroughs
+Alexis Lee: Do we have acceptance tests for survey and AI co-creation? It seems like there’s acceptance criteria for survey on pg 11 but idk why thats there.
+Alexis Lee: Are we all available for Wednesday 3-4PM for the client demo?
+
+
+2023-10-23 00:00:00 week: 13

@@ -1,0 +1,145 @@
+
+
+2023-10-25 00:00:00 week: 12
+
+
+2023-10-18 00:00:00 week: 11
+William Walker (1697697659292019): My guess would be something like 'As a user, I want to be able to change the title of the survey, so that I can provide an appropriate title for the survey', I'd include a screen shot of the onscreen element which is editable, in accordance to the use story.
+William Walker (1697697803967999): All my tests ensure that react components are properly INTERGREATED, archived through UI manipulations by an automated system, within a jest UNIT TESTing framework. I have no idea what category I should put survey related tests.
+William Walker (n/a): I think I've crossed into all three.
+William Walker (1698032282332729): All gucci
+
+
+2023-10-11 00:00:00 week: 10
+William Walker (1697443893905199): Just saw this, 4pm can work if it has too, but I’d really prefer a different time. I technically have a commitment between 4-6. However, if it’s already organized I can make it work if necessary 
+William Walker (1697494724043599): Honestly, Wednesday, Thursdays or Fridays before 7:30 works fine for me
+William Walker (n/a): But if there is no better time I can try and make today work
+William Walker (1697084213433789): Can do, I’m hoping to finalize some development on survey stuff tomorrow before doing so. 
+
+
+2023-10-04 00:00:00 week: 9
+William Walker (1696858038575349): Survey components have been refactored. Needs some additional style adjustments, specially for the complex logic required for checkboxes. There's no error checking yet. Which will be a, whole thing in of itself.
+
+
+2023-09-27 00:00:00 week: 8
+William Walker (1696045407386599): The current code for the survey is really very difficult to work with. While I got some rudimentary logic going the degree of effective change is going to be very difficult as is. I've been replicating the survey react components such that we can introduce the new functionality as needed. So far, nearly everything is replicated apart from deleting questions and the smart-linkage between answers the further questions displayed to the user.
+William Walker (n/a): I have pushed these changes to a new branch
+William Walker (n/a): Should we have a meeting tomorrow just to touch base?
+William Walker (n/a): This is what I've got so far for the replicated, refactored survey. Visual elements will follow functionality.
+
+
+2023-09-20 00:00:00 week: 7
+William Walker (1695286788330229): I've corrected some AQS API code and now everyone who is an admin should be able to post surveys. But you need to make sure to include your credentials in the admin and MP database. NOT the user groups (well, you need that too) but a table called admin and MP in the DynamoDB tables
+William Walker (1695361058268369): Pog news incoming, I don't know if you guys already figured out this issue. But I've managed to get hot-reloading to work for next.js on the frontend codebase.
+William Walker (n/a): So, we don't need to run the 'npm run dev' every time we want to display a change. Which for me at least took nearly 20 mins each time
+William Walker (1695388433402239): So, progress. You can *kinda* link question-selections to other questions. It's buggy, the first question isn't detected for some reason, and the actual linkages aren't yet saved to the question set. All off the questions are submitted at once on submit. So I'm highly confident that we can do all the question routeing on the front end. Very pleased.
+William Walker (1695256425308979): Assuming the correct privileges, how would an admin user create a new survey&gt;
+William Walker (1695256741333949): Oh wait I got it Pratul Singh Raghava, make sure the only user groups you are associated with is MP and Admin
+William Walker (n/a): If you are a citizen then it will not display the new survey related functionality
+William Walker (n/a): Even if you are also an MP and Admin
+
+
+2023-09-13 00:00:00 week: 6
+William Walker (1694763300149829): I'm having troubles getting the nextjs-frontend-ui to boot up. What versions of Node are u guys using?
+William Walker (1694764016838159): I'm running into a couple. I can install all the dependency's with yarn just fine. But when I try to build the solution I error out with "warn  - Restarted collecting page data for [object Object] because it took more than 60 seconds". But I cant run yarn start because there is no optimised build. If I try to use npm I just get a tone of dependency conflicts
+William Walker (n/a): I assume the general steps are ment to be run 'yarn install', then 'yarn run build' and then boot the solution with 'yarn run start'. All the correct keys should already be in place, as I pulled from main.
+William Walker (1694764176319889): I would have assumed so as well, but I run into the same kind of errors if I execute the npm equivalent set of commands
+William Walker (1694764283937149): Yea na fam. I think my npm version is not aokay. I'll try updating and report back
+William Walker (1694764653329839): Did you need to build the project before you could run it? Or did it just pop off out of the box?
+William Walker (n/a): I remember being able to build it weeks ago tbh
+William Walker (1694997938774619): When running npm run dev, eventually it just refers me to '<https://about.itsourvoice.com/>'. If I try and load the url <http://localhost:3000/api/hello> to view all routes it takes me to a 404. Any suggestions of a specific entry url?
+William Walker (1695008035334309): Was able to create a new survey (through the backend), edit questions and submit response.
+William Walker (1695008748189139): If you go to surveys there should be a new one called *Guys, lemme know how epic I be. - William*
+
+
+2023-09-06 00:00:00 week: 5
+William Walker (1694344579763539): Apparently I can't join the huddle
+William Walker (n/a): Apparently I can't join the huddle
+William Walker (1694344625055329): Facebook? Zoom?
+William Walker (1694344698000349): <https://us05web.zoom.us/j/87287391816?pwd=MwGkhySORHnfOnvpA14olCEXMjbwJS.1>
+
+
+2023-08-30 00:00:00 week: 4
+William Walker (1693805685368799): I need to go to work, I'll be back at 6:15 and will be present for the rest of the night
+William Walker (1693459476046889): Can do! Will have done before monday
+William Walker (1693638133786189): Alexis Lee just an update, I've nearly finished testing for the model. Going to finish my parts of the report later tonight
+William Walker (1693638144262409): Model is chugging along nicely
+William Walker (1693731458349139): I've put a good amount of work down on the moderation document, those involved have a look over it to make sure your pleased with whats there
+William Walker (1693797025839899): Just looking over the presentation, some of the videos are not accessible. I think they need to be made public
+William Walker (1693443689126819): Yea I can take that up
+
+
+2023-08-23 00:00:00 week: 3
+William Walker (1693200846300339): I’ve been working with a couple sources as well, I’ve cleaned up the data the best I can and have a basic python training rig setup 
+William Walker (n/a): I haven’t pushed it to a branch yet 
+William Walker (n/a): Gotta say, There’s a lot of vile things online 
+William Walker (n/a): I’ll contribute to the doc today on where I’m at 
+William Walker (1693219587470499): Alexis Lee, I have some additional datasets that I've been working with. Do u want me to describe them in the document? Do what's already been done but for the data I've used? Or do u want me to hold off until we proper decide on which dataset we're going to be using
+William Walker (1693219622687769): And Fawaz Al Khreisha
+
+
+2023-08-16 00:00:00 week: 2
+
+
+2023-08-09 00:00:00 week: 1
+William Walker (1692004180689209): Me too
+William Walker (n/a): I can do before 2 tomorrow tho if we decide to go down that path
+William Walker (1692004383688759): G for me to send this off? I need at least 5 reacts before I commit to the appointment request lol 'Hi Eddie, Hope you're doing well. We were thinking, would you be available on Wednesday at 2 pm? We're hoping to chat about our feature selections. It would be awesome to go over what we're planning to deliver and get some insights on what you're looking for in terms of our deliverables. Thanks a bunch! Cheers, Group 3'
+William Walker (1692016557722109): We've all been invited to the workspace
+William Walker (n/a): Apparently the only task with priority 0 is 'SUGGESTIONS FOR IMPROVEMENT - ALL TEAMS TO DO THIS'
+William Walker (1692003425728439): Oh fantastic!
+William Walker (n/a): About selecting whatever we want
+William Walker (n/a): pog never mind then we can work out the tasks tomorrow then
+William Walker (1692003526028099): Yea good idea
+William Walker (1692003541608019): I guess that means we're fired
+William Walker (1692003664354719): Probably not a bad idea
+William Walker (1692003734497309): Could we aim for before 4?
+William Walker (n/a): If not, understandable
+William Walker (1692003866980389): Bet bet, give me a react if 2 works for you guys
+William Walker (n/a): I can send off another email
+William Walker (1692004012384609): As in, can we organize a meeting for tomorrow with eddie?
+William Walker (1691981147915869): Sounds like a plan, have the presentation slide / scope links been shared? I can't seem to find them
+William Walker (1691994041086309): I'm not sure what we can show if we don't have any tasks assigned, what would we even place into it?
+William Walker (1691994097378759): That'll do it hahah
+William Walker (1691994140060719): Maybe we can place in the major xp phases? Like make story boards, test, development, acceptence test etc
+William Walker (n/a): If we have a idea on how long development cycles are, we can just repeat those elements for 13 weeks
+William Walker (1692001831255079): I suppose we should try and have a meeting asap to select ours tasks. If not tonight some time tomorrow.
+William Walker (n/a): The sooner we select our tasks the more likely we'll get to work on features which we are most interested in
+William Walker (1692001998415839): True, we do have the google docs page. I doubt the tasks will be very different compared to the asana
+William Walker (n/a): Also, I put up a very basic gantt chart in the presentation slide. I've just outlined the basic XP dev cycle. I think it'll do for now if we are forced to submit something before the end of the night
+William Walker (1692002681666169): Should I send this through as an email? 'Hello Eddie, I trust you're doing well. I wanted to reach out to you regarding our group, SOFT3888_TH08_03. We're excited about the prospect of getting involved in the OurVoice project and are eager to kick off our active development phase. Could you please grant us access to the OurVoice Asana workspace? Here are the email addresses of the team members who need to be invited: • <mailto:abur2581@uni.sydney.edu.au|abur2581@uni.sydney.edu.au> • <mailto:alee6817@uni.sydney.edu.au|alee6817@uni.sydney.edu.au> • <mailto:atom5594@uni.sydney.edu.au|atom5594@uni.sydney.edu.au> • <mailto:faal7090@uni.sydney.edu.au|faal7090@uni.sydney.edu.au> • <mailto:prag9782@uni.sydney.edu.au|prag9782@uni.sydney.edu.au> • <mailto:wwal7356@uni.sydney.edu.au|wwal7356@uni.sydney.edu.au> • <mailto:zans5252@uni.sydney.edu.au|zans5252@uni.sydney.edu.au> Thanks so much for your help. We're looking forward to diving in and making progress on the tasks. Best regards, Group 3'
+William Walker (1691735450995399): Curtesy of Pratul Singh Raghava
+William Walker (1691894214054899): I think thats fair, we don't have any tasks to even make a scope
+William Walker (1691900219529299): Are gonna have a call later to finish everything off? At least what we can finish off?
+William Walker (1691900547353059): I'm free around 5, but can do earlier if needed
+William Walker (1691909983906229): Ready to go?
+William Walker (n/a): How do we group call lol
+William Walker (n/a): With one main one that brings everything together
+William Walker (1691642906930179): I don't think there's much we can do about that
+William Walker (1691642959425409): I've been keeping track
+William Walker (n/a): all g homie
+William Walker (1691643044607489): Holy shit is there no git?
+William Walker (n/a): No repos at all?
+William Walker (n/a): Surely not
+William Walker (n/a): !!!!
+William Walker (1691643196185559): Jesus christ he ended the meeting
+William Walker (n/a): fuck me
+William Walker (n/a): Ok
+William Walker (1691643212748819): Lets have a call
+William Walker (1691718871732799): Yo I created a new slack workspace. Someone may have already done this, we don't even need to use it if we don't want to. but I thought It would def make life easier for everyone if we could have better communication with the other groups.
+William Walker (n/a): <https://join.slack.com/t/slack-5sq8463/shared_invite/zt-21dhjww8g-YQ6T2CTeCUi7PBShoZCuuQ>
+William Walker (1691735408329789): • We presented our concerns to the client regarding the inter-group communication hassle • Client not very keen on every group developing their own version • Client will be contacting the unit coordinator with regards to the plan moving forward • Further decision will be made after client-coordinator meeting • We requested the client to set up a repository so we can get the source code     ◦ Client said he doesn’t know how to set up a repository :smiling_face_with_tear: • Suggested plan for moving forward is for random distribution of tasks among all teams so that each team can start working independently • Last week of the project will be set aside for integration of the features designed by each team 
+William Walker (n/a): (Main meeting points)
+William Walker (1691642518927569): Do we want to make the mega group? Could make our group distinct from the others
+William Walker (n/a): I have no idea
+William Walker (1691642756981759): That might be the go, didn't realize we'd need to organise ourselves so much
+William Walker (1691642776034029): Maybe we can ask for emails
+William Walker (1691642836554849): Fuck me true
+William Walker (1691642850558889): Surely there'll be someone above us who can help with that
+William Walker (1691642877566199): There will likely be many repos for individual functionality
+William Walker (n/a): Does anyone have the zoom link for 2pm?
+
+
+2023-08-02 00:00:00 week: 0
+William Walker (n/a): William Walker has joined the channel
+William Walker (n/a): Heyo, just wondering if we've decided on a time in which we can have a group call/meetup? I'm free all day until 2 but am also available 7 onwards.

@@ -1,0 +1,107 @@
+
+
+2023-10-24 00:00:00 week: 12
+
+
+2023-10-17 00:00:00 week: 11
+
+
+2023-10-10 00:00:00 week: 10
+
+
+2023-10-03 00:00:00 week: 9
+Pratul Singh Raghava: On it:saluting_face:
+Pratul Singh Raghava: Should we just fill in Alexis' part for her since she's sick?
+Pratul Singh Raghava: Sure
+Pratul Singh Raghava: What does "External APIs might not work" pertain to?
+Pratul Singh Raghava: It's all good, everything's done
+Pratul Singh Raghava: The report and presentation are good to go
+Pratul Singh Raghava: I'm just finishing off the formatting of the report
+Pratul Singh Raghava: I've submitted the formatted report and presentation
+Pratul Singh Raghava: I have been researching and analysing the code shared by the other group wherein they have run the code locally
+Pratul Singh Raghava: My initial assessment is that its not really of any help to us
+Pratul Singh Raghava: The main feature they were unable to simulate locally was Cognito, which is something we are working with heavily for two of our user stories
+Pratul Singh Raghava: My opinion is that we are better off working with what we have right now and just developing the new user stories that Eddie gave us
+Pratul Singh Raghava: Namely, documentation & research on proposals, i.e. how to make them better
+
+
+2023-09-26 00:00:00 week: 8
+
+
+2023-09-19 00:00:00 week: 7
+Pratul Singh Raghava: Here's the link to the Figma designs for the Surveys page : <https://www.figma.com/file/rSJ2K8E09pb7nUAF1Tdjpz/Untitled?type=design&amp;node-id=0%3A1&amp;mode=design&amp;t=DcovvxMZgd5rDsSZ-1>
+Pratul Singh Raghava: Ah I see
+
+
+2023-09-12 00:00:00 week: 6
+Pratul Singh Raghava: I've created a new UserPool for us to experiment around with security stuff. Here are the new UserPoolID and ClientID :  1. *UserPoolID* : _ap-southeast-2_wWjdafdNy_ 2. *ClientID* : _m25b27nvhnujsjnso51ldqto7_ You can change these in : _nextjs-frontend-ui/src/aws/cognito/UserPool.ts_
+Pratul Singh Raghava: Did somebody call tech support?:saluting_face:
+Pratul Singh Raghava: Oh yeah for this error just go `npm install i --force`
+
+
+2023-09-05 00:00:00 week: 5
+Pratul Singh Raghava: Yep its because our Pro plan ended
+
+
+2023-08-29 00:00:00 week: 4
+Pratul Singh Raghava: Yep tomorrow for me is all about helping you guys get the code running
+Pratul Singh Raghava: So sorry, I wrote the wrong UserPoolID and ClientID but I've fixed it now to the correct ones
+
+
+2023-08-22 00:00:00 week: 3
+Pratul Singh Raghava: OMG I THINK IT WORKED
+Pratul Singh Raghava: My account is showing up on AWS as well
+Pratul Singh Raghava: yep Eddie gave me the login credentials to the wrong account, so I wasted a lot of time setting up things from scratch
+Pratul Singh Raghava: Eventually I realised I should check the other accounts for existing settings and voila I found the golden account which runs everything
+Pratul Singh Raghava: I think so yeah
+Pratul Singh Raghava: But this is just the front-end code, I'll have a crack at the posts-api, survey-api and user-management-api as well
+Pratul Singh Raghava: I'll have a peek right now and report tomorrow morning
+Pratul Singh Raghava: <https://about-stg.itsourvoice.com/terms-and-conditions.html>
+Pratul Singh Raghava: <https://about-stg.itsourvoice.com/community-guidelines.html>
+
+
+2023-08-15 00:00:00 week: 2
+Pratul Singh Raghava: We should try to get the project scope submitted by tomorrow with whatever information we have
+Pratul Singh Raghava: Anybody find a workaround for the missing UserPoolID and Client ID?
+Pratul Singh Raghava: It'd be great if someone could take minutes of the meeting with Eddie
+Pratul Singh Raghava: Thanks!
+Pratul Singh Raghava: Anyone else joining the mega group meeting with Eddie?
+Pratul Singh Raghava: It's just me right now
+Pratul Singh Raghava: I'm on my break at work till 12:30 if you guys wanna meet rn
+Pratul Singh Raghava: Sure
+
+
+2023-08-08 00:00:00 week: 1
+Pratul Singh Raghava: We could request an extension on the scope till Thursday, given our special circumstances
+Pratul Singh Raghava: Let's at least finish the group contract today so we can submit it along with the deed polls
+Pratul Singh Raghava: and as for the project scope and presentation, we send an email to the unit coordinator and tutor rightaway
+Pratul Singh Raghava: Even for those, let's identify areas that we can finish off right away
+Pratul Singh Raghava: Sure I'm free all day today
+Pratul Singh Raghava: Sure let's do it
+Pratul Singh Raghava: I'll run now, can someone else takeover the meeting minutes? Its at the bottom of the google doc
+Pratul Singh Raghava: Let me know later if there's something urgent, I'm free to discuss later tonight
+Pratul Singh Raghava: Just received this
+Pratul Singh Raghava: Not yet, I think he's just going through the planned features of the website
+Pratul Singh Raghava: No idea what the current state of the project is
+Pratul Singh Raghava: Unfortunately, I have to run after this, I'm already late for something:grimacing:
+Pratul Singh Raghava: I trust you guys will be able to handle it
+Pratul Singh Raghava: Might as well
+Pratul Singh Raghava: No worries at all!
+Pratul Singh Raghava: You can find the minutes in the doc that I shared above
+Pratul Singh Raghava: And we'll discuss further in the lab tomorrow
+Pratul Singh Raghava: My guess would be that all groups work separately
+Pratul Singh Raghava: *Kick-Off Meeting*  Time : Tomorrow 2PM Zoom link: <https://uni-sydney.zoom.us/j/82143125937?pwd=ZEx0T0xVSmliRUlOK0lXeG0yY0lhdz09> Password: 666666
+Pratul Singh Raghava: Is there anyone who can't make the meeting?
+Pratul Singh Raghava: Availabilities for weekly out of lab meeting : <https://www.when2meet.com/?20837357-dxG8T>
+Pratul Singh Raghava: Tutor Email : <mailto:yali9110@uni.sydney.edu.au|yali9110@uni.sydney.edu.au>
+Pratul Singh Raghava: Pratul Singh Raghava : 0481602870
+Pratul Singh Raghava: What all questions do we want to ask our client?
+Pratul Singh Raghava: <!everyone> Please confirm you can meet at 12 today on Zoom!
+Pratul Singh Raghava: I really want to get the client email out ASAP, so its better if we just do it now
+Pratul Singh Raghava: yep just a sec
+Pratul Singh Raghava: <https://uni-sydney.zoom.us/j/89858158557>
+Pratul Singh Raghava: <https://docs.google.com/document/d/1kss-ZCGoW1atqIIIP4ptm1eUMnJZ-9Smf5KKcXvWqJQ/edit?usp=sharing>
+Pratul Singh Raghava: Okay so apparently we're not the only ones doing OurVoice
+
+
+2023-08-01 00:00:00 week: 0

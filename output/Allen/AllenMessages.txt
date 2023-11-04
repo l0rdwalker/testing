@@ -1,0 +1,224 @@
+
+
+2023-10-25 00:00:00 week: 12
+
+
+2023-10-18 00:00:00 week: 11
+Allen Burias (1697692304683859): Forgot to mention earlier but I've put in my stuff for the presentation, gonna be working on my part of the final report over tonight/tomorrow
+Allen Burias (1697697691068929): Yea thats what i would think aswell
+Allen Burias (1697777003943319): Will make sure to get my stuff done by then
+Allen Burias (1697777014764309): Is there any other generic parts that need work?
+
+
+2023-10-11 00:00:00 week: 10
+Allen Burias (1697494740240529): Free all weds
+Allen Burias (1697494746101839): Do we still have a meeting today?
+Allen Burias (1697076317392479): cant access the document, says i got no perms
+Allen Burias (1697076336562229): Ill add some stuff myself either tonight or tomororw
+Allen Burias (1697076386839569): the canva presentation
+Allen Burias (1697076469925759): yep all good
+Allen Burias (1697076470962969): thanks!
+Allen Burias (1697082379643129): Ofc ofc
+
+
+2023-10-04 00:00:00 week: 9
+
+
+2023-09-27 00:00:00 week: 8
+Allen Burias (1696227948023469): Will be on it tonight!
+
+
+2023-09-20 00:00:00 week: 7
+
+
+2023-09-13 00:00:00 week: 6
+Allen Burias (1695025186474029): Marks wise we did pretty well last progressive report, just have to remember to put in individual contribs
+Allen Burias (1695036153247679): Pratul Singh Raghava do you know if environment variables are meant to go somewhere specific for the nextjs frontend?
+Allen Burias (1695036219021489): ive gollowed the nextjs environment variable setup steps but it seems im not able to access them
+Allen Burias (1694763329986919): I just have the latest version im pretty sure
+Allen Burias (1694763340708939): What kinda problems are you running into?
+Allen Burias (1694764124677889): im p sure ur meant to use npm
+Allen Burias (1694764182746179): weird
+Allen Burias (1694764209691009): it should just be like npm i to install dependencies, then dev run
+Allen Burias (1694764312189619): I just forced that ngl
+Allen Burias (1694764339560589): I havent run into any issues so far
+Allen Burias (1694764681373359): Just installing the npm dependencies
+Allen Burias (1695024438707299): Week 9 is after midsem right?
+Allen Burias (1695025165029939): Definitely yeah
+
+
+2023-09-06 00:00:00 week: 5
+Allen Burias (1694344632449499): Zoom works?
+
+
+2023-08-30 00:00:00 week: 4
+Allen Burias (1693805084355609): 2.3 2fa and acceptance criteria coming soon, give me about 2 hours
+Allen Burias (1693805433594419): Please let me know if theres an option to configure it to email verification as well, apparently there is an additional cost for sms verification
+Allen Burias (1693822772983189): I've pretty much finished all the parts related with the MFA functionality. Unfortunately there was not much that I could test wrt its functionality (due to the possible conflict with other groups with Cognito MFA), I've mentioned this wherever relevant and will be speaking to Eddie about it tomorrow (and with the other groups later). I'll be looking into the user verification through digital id or SSO implementation if we end up having to scrap the MFA functionality.
+Allen Burias (1693830045763309): Reminder: I accidentally made submissions to the Weeks 6-13 group contract, will have to make a resubmission sometime this week to rectify this (sorry haha)
+Allen Burias (1693708690822729): Has anyone run into this?
+Allen Burias (1693799900245549): Zeeshan Ansari Pratul Singh Raghava any idea what could be causing this?
+Allen Burias (1693799960183499): Yep thats all sorted
+Allen Burias (1693799990645109): I think what i need to do is retrieve an existing cognitouser
+Allen Burias (1693799995567929): For the email otp
+Allen Burias (1693800338732039): Nevermind thats not the case, since on signin the service also makes a new cognitouser
+Allen Burias (1693804347587829): Can someone who has access to aws enable MFA for the cognito userpool?  <https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-settings-mfa.html#user-pool-settings-mfa-prerequisites|https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-settings-mfa.html#user-pool-settings-mfa-prerequisites>
+Allen Burias (1693454563538069): report introduction is now complete, please feel free to have a look through and revise anything that needs it (I may have missed a few things in the resources and risks sections especially). A few changes from the documents we have before are:  • change mobile OTP scope item to email or mobile OTP • added regional/community/nonprofit organisations as stakeholders • redefined the mission statement from eddie's project brief into a vision statement (I believe its closer to a vision statement than mission, let me know what you guys think). If there are any other parts of the report that need doing/anyone needing help with their parts, let me know and I'll get cracking on it.
+Allen Burias (1693454622085369): I've used APA referencing but if we want to use a different style I can change it no probs
+
+
+2023-08-23 00:00:00 week: 3
+Allen Burias (1693235534271299): Bit of a late update but I've started on the group report, aiming to get the easy stuff (intro, system specification) done by tonight (evening of the 29th) so we can focus on the harder parts of the report on thursday
+Allen Burias (1693235859765329): I've also started working on the security email verification part, but am a bit unsure as to where I should fit it in the codebase we have right now (lack of experience in web dev, sorry :pensive:)
+Allen Burias (1693264509979539): Is anyone free to setup the recurring meeting stuff? I'm just about to leave for work so I can't
+
+
+2023-08-16 00:00:00 week: 2
+Allen Burias (1692496774053589): Is there anything else needed for the project scope document?
+
+
+2023-08-09 00:00:00 week: 1
+Allen Burias (1692008378598009): Wed 2pm is ezpz for me
+Allen Burias (1691912313898259): Ezpz
+Allen Burias (1691981415336819): Do we have a drive folder?
+Allen Burias (1691994088432589): One big chunk that says "project development" :laughing:
+Allen Burias (1691994101725729): But yeah I agree hard to define without specific tasks
+Allen Burias (1691890442322699): 
+Allen Burias (1691890459054839): from Ed re: issues with client meeting
+Allen Burias (1691890508650539): I think our situation is more serious than the client not being available for a meeting so we probably have a valid reason to ask for an extension
+Allen Burias (1691910102876909): slack not giving me any notifications from phone, completely missed this
+Allen Burias (1691910102876909): slack not giving me any notifications from phone, completely missed this
+Allen Burias (1691910116052709): I can join the call but dont have access to a pc right now
+Allen Burias (1691911102054909): I was asking if my audio was working :laughing:
+Allen Burias (1691911314481579): I can email later when i get home
+Allen Burias (1691642885652509): I didnt know if it was appropriate to mention that this definitely isnt what we expected it to be
+Allen Burias (1691643188433349): WAIT
+Allen Burias (1691643192472729): did he close the meeting
+Allen Burias (1691641013984269): have they mentioned a specific framework/stack that's expected to be used? id assume they want us to use the same as what they have now
+Allen Burias (1691641113178799): for context, the document says frontend/backend is next/nodejs, and vercel/aws for deployment
+Allen Burias (1691641258719029): sorry i totally zoned out and forgot to ask if someone was taking meeting minutes?
+Allen Burias (1691642766911479): we need to get these other guys to stay too
+Allen Burias (1691642776685949): we need to discuss this asap
+Allen Burias (1691642788153399): should be g
+Allen Burias (1691642816288089): do you guys think its worth making a private post on ed wrt this
+Allen Burias (1691642830088519): i'm especially concerned about how source control will be managed
+Allen Burias (1691642850392619): if we're making bitbuckets for each groups and adding the tutor to each one
+Allen Burias (1691642857670479): but have to work on a single repo across 4 groups
+
+
+2023-08-02 00:00:00 week: 0
+Allen Burias (1691384824610409): Allen Burias has joined the channel
+Allen Burias (1691413313633509): Happy to get started on the XP summary if anyone else is interested in splitting the work, am free all of Wednesday to do it. Do we have any idea w.r.t. the sort of depth/length expected for the summary?
+Allen Burias (1691451564231849): That works
+
+
+2023-10-25 00:00:00 week: 12
+
+
+2023-10-18 00:00:00 week: 11
+Allen Burias (n/a): Forgot to mention earlier but I've put in my stuff for the presentation, gonna be working on my part of the final report over tonight/tomorrow
+Allen Burias (n/a): Yea thats what i would think aswell
+Allen Burias (n/a): Will make sure to get my stuff done by then
+Allen Burias (n/a): Is there any other generic parts that need work?
+
+
+2023-10-11 00:00:00 week: 10
+Allen Burias (n/a): Free all weds
+Allen Burias (n/a): Do we still have a meeting today?
+Allen Burias (n/a): cant access the document, says i got no perms
+Allen Burias (n/a): Ill add some stuff myself either tonight or tomororw
+Allen Burias (n/a): the canva presentation
+Allen Burias (n/a): yep all good
+Allen Burias (n/a): thanks!
+Allen Burias (n/a): Ofc ofc
+
+
+2023-10-04 00:00:00 week: 9
+
+
+2023-09-27 00:00:00 week: 8
+Allen Burias (n/a): Will be on it tonight!
+
+
+2023-09-20 00:00:00 week: 7
+
+
+2023-09-13 00:00:00 week: 6
+Allen Burias (n/a): Marks wise we did pretty well last progressive report, just have to remember to put in individual contribs
+Allen Burias (n/a): Pratul Singh Raghava do you know if environment variables are meant to go somewhere specific for the nextjs frontend?
+Allen Burias (n/a): ive gollowed the nextjs environment variable setup steps but it seems im not able to access them
+Allen Burias (n/a): I just have the latest version im pretty sure
+Allen Burias (n/a): What kinda problems are you running into?
+Allen Burias (n/a): im p sure ur meant to use npm
+Allen Burias (n/a): weird
+Allen Burias (n/a): it should just be like npm i to install dependencies, then dev run
+Allen Burias (n/a): I just forced that ngl
+Allen Burias (n/a): I havent run into any issues so far
+Allen Burias (n/a): Just installing the npm dependencies
+Allen Burias (n/a): Week 9 is after midsem right?
+Allen Burias (n/a): Definitely yeah
+
+
+2023-09-06 00:00:00 week: 5
+Allen Burias (n/a): Zoom works?
+
+
+2023-08-30 00:00:00 week: 4
+Allen Burias (n/a): 2.3 2fa and acceptance criteria coming soon, give me about 2 hours
+Allen Burias (n/a): Please let me know if theres an option to configure it to email verification as well, apparently there is an additional cost for sms verification
+Allen Burias (n/a): I've pretty much finished all the parts related with the MFA functionality. Unfortunately there was not much that I could test wrt its functionality (due to the possible conflict with other groups with Cognito MFA), I've mentioned this wherever relevant and will be speaking to Eddie about it tomorrow (and with the other groups later). I'll be looking into the user verification through digital id or SSO implementation if we end up having to scrap the MFA functionality.
+Allen Burias (n/a): Reminder: I accidentally made submissions to the Weeks 6-13 group contract, will have to make a resubmission sometime this week to rectify this (sorry haha)
+Allen Burias (n/a): Has anyone run into this?
+Allen Burias (n/a): Zeeshan Ansari Pratul Singh Raghava any idea what could be causing this?
+Allen Burias (n/a): Yep thats all sorted
+Allen Burias (n/a): I think what i need to do is retrieve an existing cognitouser
+Allen Burias (n/a): For the email otp
+Allen Burias (n/a): Nevermind thats not the case, since on signin the service also makes a new cognitouser
+Allen Burias (n/a): Can someone who has access to aws enable MFA for the cognito userpool?  <https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-settings-mfa.html#user-pool-settings-mfa-prerequisites|https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-settings-mfa.html#user-pool-settings-mfa-prerequisites>
+Allen Burias (n/a): report introduction is now complete, please feel free to have a look through and revise anything that needs it (I may have missed a few things in the resources and risks sections especially). A few changes from the documents we have before are:  • change mobile OTP scope item to email or mobile OTP • added regional/community/nonprofit organisations as stakeholders • redefined the mission statement from eddie's project brief into a vision statement (I believe its closer to a vision statement than mission, let me know what you guys think). If there are any other parts of the report that need doing/anyone needing help with their parts, let me know and I'll get cracking on it.
+Allen Burias (n/a): I've used APA referencing but if we want to use a different style I can change it no probs
+
+
+2023-08-23 00:00:00 week: 3
+Allen Burias (n/a): Bit of a late update but I've started on the group report, aiming to get the easy stuff (intro, system specification) done by tonight (evening of the 29th) so we can focus on the harder parts of the report on thursday
+Allen Burias (n/a): I've also started working on the security email verification part, but am a bit unsure as to where I should fit it in the codebase we have right now (lack of experience in web dev, sorry :pensive:)
+Allen Burias (n/a): Is anyone free to setup the recurring meeting stuff? I'm just about to leave for work so I can't
+
+
+2023-08-16 00:00:00 week: 2
+Allen Burias (n/a): Is there anything else needed for the project scope document?
+
+
+2023-08-09 00:00:00 week: 1
+Allen Burias (n/a): Wed 2pm is ezpz for me
+Allen Burias (n/a): Ezpz
+Allen Burias (n/a): Do we have a drive folder?
+Allen Burias (n/a): One big chunk that says "project development" :laughing:
+Allen Burias (n/a): But yeah I agree hard to define without specific tasks
+Allen Burias (n/a): 
+Allen Burias (n/a): from Ed re: issues with client meeting
+Allen Burias (n/a): I think our situation is more serious than the client not being available for a meeting so we probably have a valid reason to ask for an extension
+Allen Burias (n/a): slack not giving me any notifications from phone, completely missed this
+Allen Burias (n/a): slack not giving me any notifications from phone, completely missed this
+Allen Burias (n/a): I can join the call but dont have access to a pc right now
+Allen Burias (n/a): I was asking if my audio was working :laughing:
+Allen Burias (n/a): I can email later when i get home
+Allen Burias (n/a): I didnt know if it was appropriate to mention that this definitely isnt what we expected it to be
+Allen Burias (n/a): WAIT
+Allen Burias (n/a): did he close the meeting
+Allen Burias (n/a): have they mentioned a specific framework/stack that's expected to be used? id assume they want us to use the same as what they have now
+Allen Burias (n/a): for context, the document says frontend/backend is next/nodejs, and vercel/aws for deployment
+Allen Burias (n/a): sorry i totally zoned out and forgot to ask if someone was taking meeting minutes?
+Allen Burias (n/a): we need to get these other guys to stay too
+Allen Burias (n/a): we need to discuss this asap
+Allen Burias (n/a): should be g
+Allen Burias (n/a): do you guys think its worth making a private post on ed wrt this
+Allen Burias (n/a): i'm especially concerned about how source control will be managed
+Allen Burias (n/a): if we're making bitbuckets for each groups and adding the tutor to each one
+Allen Burias (n/a): but have to work on a single repo across 4 groups
+
+
+2023-08-02 00:00:00 week: 0
+Allen Burias (n/a): Allen Burias has joined the channel
+Allen Burias (n/a): Happy to get started on the XP summary if anyone else is interested in splitting the work, am free all of Wednesday to do it. Do we have any idea w.r.t. the sort of depth/length expected for the summary?
+Allen Burias (n/a): That works

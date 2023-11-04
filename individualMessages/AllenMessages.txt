@@ -1,0 +1,68 @@
+
+
+2023-09-04 00:00:00 week: 6
+Allen Burias: Darin has let me know that they do not want to implement MFA, so that pretty much kills it unless we find out some way to use a different user pool :disappointed:
+Allen Burias: I've put out an announcement regarding the MFA stuff. Did anyone need any help with their parts in the meantime? Wanna confirm first if we can keep the feature or not before continuing working on it.
+Allen Burias: Was there anything important you wanted to discuss today? We can bring it up if there is
+
+
+2023-09-11 00:00:00 week: 7
+Allen Burias: Just installing the npm dependencies
+Allen Burias: I havent run into any issues so far
+Allen Burias: I just forced that ngl
+Allen Burias: it should just be like npm i to install dependencies, then dev run
+Allen Burias: weird
+Allen Burias: im p sure ur meant to use npm
+Allen Burias: What kinda problems are you running into?
+Allen Burias: I just have the latest version im pretty sure
+
+
+2023-09-18 00:00:00 week: 8
+Allen Burias: Is it hooked up to the staging site?
+Allen Burias: I need to pass the secret key for my recaptcha to a post request to google
+
+
+2023-09-25 00:00:00 week: 9
+
+
+2023-10-02 00:00:00 week: 10
+Allen Burias: Because those are very easy to bypass with bots now
+Allen Burias: I was hoping he wouldnt say he prefers the really old kind of captcha with warbled text
+Allen Burias: Ah I see, that should be easy to change
+Allen Burias: Interesting, what did he say about captcha specifically?
+Allen Burias: My assumption was work done from the first major report up til now
+Allen Burias: I may need something similar in order to verify tokens for captcha
+Allen Burias: Ayushmaan Tomar do you have a link to the lambda function you created for user logins? curious to see how you were able to implement it
+Allen Burias: Ayush sent a link to canva here earlier
+Allen Burias: Same, sorry for the delay
+Allen Burias: Ill look into it, thanks
+Allen Burias: Its kinda funny, the first results that pop up when you google "slider captchas" are tutorials that tell you how to bypass them with JS scripts
+Allen Burias: Im aware of the type
+Allen Burias: Thanks pratul
+
+
+2023-10-09 00:00:00 week: 11
+Allen Burias: Ofc ofc
+Allen Burias: thanks!
+Allen Burias: yep all good
+Allen Burias: the canva presentation
+Allen Burias: Ill add some stuff myself either tonight or tomororw
+Allen Burias: cant access the document, says i got no perms
+Allen Burias: Break room a bit busy so ill probably mute
+
+
+2023-10-16 00:00:00 week: 12
+Allen Burias: I know some groups' clients legit lost the codebase that they got given from capstones and had to dig for it
+Allen Burias: And then eddie to other groups
+Allen Burias: Us to eddie
+Allen Burias: Additionally, would anyone be able to bring up the topic of transferring ownership of the repository today? I know its been a big issue from my friends' previous experience and its something worthwhile to talk about in the final presentation/demo
+Allen Burias: Wed next week would be fantastic
+Allen Burias: May not be able to come today, same deal with the break room being busy
+Allen Burias: Is there any other generic parts that need work?
+Allen Burias: Will make sure to get my stuff done by then
+Allen Burias: Yea thats what i would think aswell
+Allen Burias: Forgot to mention earlier but I've put in my stuff for the presentation, gonna be working on my part of the final report over tonight/tomorrow
+Allen Burias: :moyai:
+
+
+2023-10-23 00:00:00 week: 13

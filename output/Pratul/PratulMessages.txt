@@ -1,0 +1,95 @@
+
+
+2023-10-25 00:00:00 week: 12
+
+
+2023-10-18 00:00:00 week: 11
+
+
+2023-10-11 00:00:00 week: 10
+Pratul Singh Raghava (n/a): Let's ask Eddie tomorrow if he's okay doing it next Tuesday
+Pratul Singh Raghava (n/a): Of course, go ahead XD
+Pratul Singh Raghava (n/a): Oh yeah, I forgot about that
+Pratul Singh Raghava (n/a): He was happy to do it at 4PM last time, but we will have to let him know that the meeting will go on for at least an hour
+
+
+2023-10-04 00:00:00 week: 9
+Pratul Singh Raghava (n/a): I have been researching and analysing the code shared by the other group wherein they have run the code locally
+Pratul Singh Raghava (n/a): My initial assessment is that its not really of any help to us
+Pratul Singh Raghava (n/a): The main feature they were unable to simulate locally was Cognito, which is something we are working with heavily for two of our user stories
+Pratul Singh Raghava (n/a): My opinion is that we are better off working with what we have right now and just developing the new user stories that Eddie gave us
+Pratul Singh Raghava (n/a): Namely, documentation & research on proposals, i.e. how to make them better
+
+
+2023-09-27 00:00:00 week: 8
+
+
+2023-09-20 00:00:00 week: 7
+Pratul Singh Raghava (n/a): Ah I see
+
+
+2023-09-13 00:00:00 week: 6
+Pratul Singh Raghava (n/a): Did somebody call tech support?:saluting_face:
+Pratul Singh Raghava (n/a): Oh yeah for this error just go `npm install i --force`
+Pratul Singh Raghava (n/a): One thing I've realised is that it's better to do this report stuff as we go along, instead of rushing it at the end
+Pratul Singh Raghava (n/a): Especially for the individual reports
+
+
+2023-09-06 00:00:00 week: 5
+Pratul Singh Raghava (n/a): Yep its because our Pro plan ended
+
+
+2023-08-30 00:00:00 week: 4
+Pratul Singh Raghava (n/a): Have you filled in the UserPoolID and ClientID correctly in UserPool.ts?
+
+
+2023-08-23 00:00:00 week: 3
+
+
+2023-08-16 00:00:00 week: 2
+Pratul Singh Raghava (n/a): We should try to get the project scope submitted by tomorrow with whatever information we have
+Pratul Singh Raghava (n/a): Anybody find a workaround for the missing UserPoolID and Client ID?
+Pratul Singh Raghava (n/a): Anyone else joining the mega group meeting with Eddie?
+Pratul Singh Raghava (n/a): It's just me right now
+
+
+2023-08-09 00:00:00 week: 1
+Pratul Singh Raghava (n/a): I'm down for a meeting rn or tonight
+Pratul Singh Raghava (n/a): I uploaded the deed polls and group contract already
+Pratul Singh Raghava (n/a): I'll submit the presentation as we have it right now
+Pratul Singh Raghava (n/a): I think it'll only make sense after we talk to Eddie
+Pratul Singh Raghava (n/a): This is great for us! We can choose whatever we want with no worry of what the other groups are choosing
+Pratul Singh Raghava (n/a): Eddie said he wants us working on stuff with priority 0
+Pratul Singh Raghava (n/a): Yep
+Pratul Singh Raghava (n/a): Let's email our tutor as well regarding the stuff that Eddie just told us
+Pratul Singh Raghava (n/a): Just to keep her in the loop about the extended deadline
+Pratul Singh Raghava (n/a): Let's see once we get access to the asana board
+Pratul Singh Raghava (n/a): For the meeting with Eddie, let's try for Wednesday afternoon, so that we can have a good idea of what's to be done, before our presentation
+Pratul Singh Raghava (n/a): I won't be able to make it on Wednesday due to work, so it's totally up to you guys
+Pratul Singh Raghava (n/a): Any ideas on what period the Gantt chart should cover (W2-W13?) and exactly what all needs to be shown on the chart?
+Pratul Singh Raghava (n/a): Important message by Eddie on the mega group:bangbang:
+Pratul Singh Raghava (n/a): Nope we have to send him all our emails for it
+Pratul Singh Raghava (n/a): I think there's more on the actual board than on the asana screenshot
+Pratul Singh Raghava (n/a): We could request an extension on the scope till Thursday, given our special circumstances
+Pratul Singh Raghava (n/a): Let's at least finish the group contract today so we can submit it along with the deed polls
+Pratul Singh Raghava (n/a): and as for the project scope and presentation, we send an email to the unit coordinator and tutor rightaway
+Pratul Singh Raghava (n/a): Even for those, let's identify areas that we can finish off right away
+Pratul Singh Raghava (n/a): Sure I'm free all day today
+Pratul Singh Raghava (n/a): Sure let's do it
+Pratul Singh Raghava (n/a): I'll run now, can someone else takeover the meeting minutes? Its at the bottom of the google doc
+Pratul Singh Raghava (n/a): Let me know later if there's something urgent, I'm free to discuss later tonight
+Pratul Singh Raghava (n/a): Just received this
+Pratul Singh Raghava (n/a): Not yet, I think he's just going through the planned features of the website
+Pratul Singh Raghava (n/a): No idea what the current state of the project is
+Pratul Singh Raghava (n/a): Unfortunately, I have to run after this, I'm already late for something:grimacing:
+Pratul Singh Raghava (n/a): I trust you guys will be able to handle it
+Pratul Singh Raghava (n/a): Might as well
+Pratul Singh Raghava (n/a): What all questions do we want to ask our client?
+
+
+2023-08-02 00:00:00 week: 0
+Pratul Singh Raghava (n/a): Pratul Singh Raghava has joined the channel
+Pratul Singh Raghava (n/a): 1. *Prepare a summary of what <https://canvas.sydney.edu.au/courses/53471/pages/extreme-programming?module_item_id=1997683|XP> is* :no_entry:     a. Upload it on wiki of BitBucket site by this week     b. Explore the XP roles and the tasks and responsibilities associated with each role as you will be each taking on different roles during the project as part of the XP methodology 2. *Set up a Bitbucket repository*     a. Create a group repository :white_check_mark:     b. add all your team members and tutor :no_entry:     c. name the repository as _SOFT3888_TH08_03_P01_ :white_check_mark:     d. Install SourceTree :no_entry:     e. Each group should nominate a Bitbucket expert (or two) that will be familiar with this system and how to use it. :no_entry:         i. Read <https://bitbucket.org/product/version-control-software>         ii. make notes for further reference and to bring to the lab as proof to your group that you really did study Bitbucket         iii. commit your set of notes to your Bitbucket Wiki 3. *Set up a Slack channel* :white_check_mark:     a. Add tutor :no_entry: 4. *Make a list* of the tools, knowledge and skills you will need to complete your project and assign tasks to each team member to research and learn. This might include learning about a new product, service, language, application, system or algorithm. :no_entry: 5. Contact your client and schedule the weekly client meetings :no_entry:     a. Document meeting minutes and upload to bitbucket in markdown format     b. Discuss and negotiate the project scope with your client during your first client meeting     c. Elicited initial user stories based on requirements discussed with your client 6. Submit the group contract ( 14 Aug ) :no_entry: 7. Submit the deed poll ( 14 Aug ) :no_entry: 8. Submit Scope Statement ( 14 Aug ) :no_entry: 9. Meet with group members in and out of tutorial :no_entry:     a. Document meeting minutes and upload to bitbucket in markdown format 10. Prepare Week3 Project Plan &amp; Roles Allocation Presentation that will be delivered during week3 tutorial :no_entry:
+Pratul Singh Raghava (n/a): No idea, I just know it would have to be comprehensive enough to cover every sublink given on <https://canvas.sydney.edu.au/courses/53471/pages/extreme-programming?module_item_id=1997683>
+Pratul Singh Raghava (n/a): Also, <!everyone> we need to draft an email to contact our client asap, so please reply to this message with pointers or suggestions of what we should include in the email
+Pratul Singh Raghava (n/a): Should we make a when2meet to see our weekly availabilities?

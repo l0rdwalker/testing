@@ -1,0 +1,34 @@
+
+
+2023-09-04 00:00:00 week: 6
+Fawaz Al Khreisha: Looks good thanks for doing it
+
+
+2023-09-11 00:00:00 week: 7
+
+
+2023-09-18 00:00:00 week: 8
+
+
+2023-09-25 00:00:00 week: 9
+
+
+2023-10-02 00:00:00 week: 10
+Fawaz Al Khreisha: Ive got my tut at 2 but if you guys could want to just play the video on the google drive i have of the moderation front end prototype instead of the news one because I haven't finished that one yet
+Fawaz Al Khreisha: So no required changes for the moderation feature right?
+Fawaz Al Khreisha: Week 9 tutor and in-lab meeting minutes uploaded on bitbucket wiki
+
+
+2023-10-09 00:00:00 week: 11
+Fawaz Al Khreisha: Yep will do
+Fawaz Al Khreisha: Week 10 tutor and in-lab meeting minutes uploaded on bitbucket wiki
+
+
+2023-10-16 00:00:00 week: 12
+Fawaz Al Khreisha: Meeting minutes for in-lab, tutor and out-of-lab have been uploaded
+Fawaz Al Khreisha: Let me know if anyone has feedback on them!
+Fawaz Al Khreisha: Added my demo and user story to the presentation and drive and pushed code to bitbucket
+Fawaz Al Khreisha: I might have to leave earlier because ive got class at 4 but should be fine for the first bit
+
+
+2023-10-23 00:00:00 week: 13

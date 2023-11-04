@@ -1,0 +1,59 @@
+
+
+2023-10-25 00:00:00 week: 12
+
+
+2023-10-18 00:00:00 week: 11
+
+
+2023-10-11 00:00:00 week: 10
+Ayushmaan Tomar (1697413809565389): Pratul Singh Raghava Zeeshan Ansari Can you guys do System specification and architecture design (section 2) together William Walker Can you pls do summary part for testing (part 3.3) and parts of the group processes (5.1, 5.2, 5.3) Fawaz Al Khreisha Can you pls do the group processes parts 5.4.2, 5.6, 5.7 5.8, Allen Burias Pls do reflection and conclusions (parts 6.1~6.4) I will do the acceptance criteria and acceptance test
+Ayushmaan Tomar (1697082350702359): Allen Burias can you also do acceptance criteria based on your implementation (Slide 7,8)
+Ayushmaan Tomar (1697082401773369): Alexis Lee Done with non-functional req and presentation formatting also looks complete , lemme know if anything else is required.
+
+
+2023-10-04 00:00:00 week: 9
+
+
+2023-09-27 00:00:00 week: 8
+
+
+2023-09-20 00:00:00 week: 7
+
+
+2023-09-13 00:00:00 week: 6
+
+
+2023-09-06 00:00:00 week: 5
+
+
+2023-08-30 00:00:00 week: 4
+Ayushmaan Tomar (1693806477972419): I am done with my part of summary, onto acceptance criteria then will do user stories
+Ayushmaan Tomar (n/a): After changing format of user stories , I need to change everything according to that , gonna take some but should be done with evening
+Ayushmaan Tomar (1693822547153779): Done with user stories and made changes,  individual , and rest everything mentioned up
+Ayushmaan Tomar (1693822844838919): No worries , We can have discussion about it on Wednesday and try for any alternate solutions.
+Ayushmaan Tomar (1693461364496579): <!everyone> Can you please tell me if you have used any external magic package or algorithms for implementation. I know William has used tensorflow for his , so if some used something similar, please tell me. Need it for the report.
+Ayushmaan Tomar (1693464087421279): Alexis Lee I can help with presentation ?? What do you reckon ?
+Ayushmaan Tomar (1693464234536819): I am almost done with User stories Overview and Details of System Design. Have a go through it as well and Let me know of any edits needed.
+Ayushmaan Tomar (1693489724556029): Alexis Lee I have done my presentation parts, Please have a look, Thanks.
+Ayushmaan Tomar (1693489724856369): Allen Burias I wrote the system design for your implementation as well from what we discussed in person. Do check and let me know if I missed anything.
+Ayushmaan Tomar (1693443674094179): William Walker will you be able to do System Architecture and Design part of the report ??
+
+
+2023-08-23 00:00:00 week: 3
+Ayushmaan Tomar (1693261699253139): I have made a security branch on git on work on alert users so you can use that for now
+
+
+2023-08-16 00:00:00 week: 2
+
+
+2023-08-09 00:00:00 week: 1
+Ayushmaan Tomar (1692004145538799): Yeahh , I reckon as well , can do anytime before 6
+Ayushmaan Tomar (1691901779152599): I might have to go in the evening but can still join the meet from phone
+Ayushmaan Tomar (n/a): Are there any milestone expectancy you have ?? In terms of which features to prioritise before initial deadline.
+
+
+2023-08-02 00:00:00 week: 0
+Ayushmaan Tomar (n/a): Ayushmaan Tomar has joined the channel
+Ayushmaan Tomar (n/a): Today, I am free from 1 pm then have class from 4 - 5
+Ayushmaan Tomar (n/a): Wednesday 3-5 class otherwise free all day

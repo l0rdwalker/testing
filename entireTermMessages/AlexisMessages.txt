@@ -1,0 +1,93 @@
+
+
+2023-10-24 00:00:00 week: 12
+
+
+2023-10-17 00:00:00 week: 11
+Alexis Lee: Do we have acceptance tests for survey and AI co-creation? It seems like there’s acceptance criteria for survey on pg 11 but idk why thats there.
+Alexis Lee: For 2.1 Overview, does anyone know what this means? What screenshots? • For each type of user, a small selection of screen shots should be provided which show the core functionality of the system via user scenario walkthroughs
+Alexis Lee: <!everyone> Is it possible to get most of the report done by Saturday?
+Alexis Lee: It is due Monday but wanna get it done early to check if we have all the stuff
+
+
+2023-10-10 00:00:00 week: 10
+Alexis Lee: Me and Ayush are almost done with the presentation except for the system architecture part which Pratul Singh Raghava can do whilst doing the final documentation thing.
+Alexis Lee: Can the remaining people start on the final report for this week while doing more research for surveys etc.?
+Alexis Lee: Allen Burias Which document are you talking about?
+Alexis Lee: Ooops I’ll fix that
+Alexis Lee: I think its fixed now. Can someone check please?
+Alexis Lee: Allen Burias Fawaz Al Khreisha William Walker: Can you guys add the demo videos your part in the ppt? It would be great if its short as possible! Fawaz Al Khreisha: Can you add a user story formatted functional requirement bullet point for your work? I wasn’t too sure what your part does since u changed it :sweat: Ayushmaan Tomar: Can you add points for non-functional slides in user story format for the new stuff we are demoing? Pratul Singh Raghava: Can you add screenshots of the final(?) code document and add the system architecture? If we do this we’re done with the ppt. It would be great it everyone can check the rest of the stuff. Thanks :))
+Alexis Lee: I just started on the final report. I’ve added in extra parts to the intro cuz we got some points off of that and added one more section to the exisiting ‘discipline knowledge and tools’ section.
+
+
+2023-10-03 00:00:00 week: 9
+Alexis Lee: Sorry just woke up. Whats the group work part? 
+Alexis Lee: Is there anything i can help with 
+
+
+2023-09-26 00:00:00 week: 8
+
+
+2023-09-19 00:00:00 week: 7
+Alexis Lee: Me and Fawaz Al Khreisha basically worked on the researched on the benefits and drawbacks on co-creation and what prototypes we can create for the scope. We are planning to implement prototypes for them in the following week and maybe apply it to the actual codebase to see how it works :)
+
+
+2023-09-12 00:00:00 week: 6
+Alexis Lee: Fawaz Al Khreisha and I will work on ‘RESEARCH: AI Facilitator for Proposal Co-Creation and Iteration’ this extra scope for this week!
+
+
+2023-09-05 00:00:00 week: 5
+Alexis Lee: I’ve created the slides for the client demo presentation. Can everyone have a look and see if it needs anything added or is missing something from the criteria?
+Alexis Lee: <https://www.canva.com/design/DAFttv7ZCL8/2KRZuq6Zpb_9EIibT3LLdg/edit?utm_content=DAFttv7ZCL8&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton|https://www.canva.com/design/DAFttv7ZCL8/2KRZuq6Zpb_9EIibT3LLdg/edit?utm_content=DA[…]m_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton> I tried it with the canva slides but a version of it is in the W8 presentation folder
+
+
+2023-08-29 00:00:00 week: 4
+Alexis Lee: William Walker can u do the following by Monday: • After impl the hate-sonar write on the research doc about it (u can copy paste the impl section into the System Architecture and Design part of the group report) • Add testing info in the group doc in the 3.1 details of test and the test appendix section (+limitations too for 3.3) • Fim a short demo video of the NN moderation
+Alexis Lee: Fawaz Al Khreisha can u do the following by Monday? • 3.2 Acceptance criteria and acceptance tests part for AI moderation -&gt; add info in the presentation (probs slide 11) • 3.3 Summary • 4. Discipline knowledge and tools
+Alexis Lee: tensorflow for NN, pytest, chatgpt api for moderation idk if theres more :thinking_face:
+Alexis Lee: Zeeshan Ansari Are u able to write 6. Reflections and Conclusions for the group report and fill in the frontend parts for (2.3, 3.1, 3.2, 3.3) with Pratul Singh Raghava?
+Alexis Lee: I made a new presentation with a visually appealing theme in the W7 submission folder. Last time other group powerpoints looked too good than ours :cry: 
+Alexis Lee: Things that still needs adding is: • Acceptance testing bit • Frontend design specification + demo • NN Moderation demo video 
+Alexis Lee: Allen Burias Which document are u using to write the group report? I see two documents and they’re both empty.
+
+
+2023-08-22 00:00:00 week: 3
+Alexis Lee: William Walker Hey William, Fawaz and I are going to work on the AI moderation research report for until w7. Can you add your test results with the OpenAI in the ‘AI Moderation Research’ document in the drive folder? Thanks.
+
+
+2023-08-15 00:00:00 week: 2
+Alexis Lee: I finished the research. Can someone have a look at it and tell me if more citations are necessary?
+Alexis Lee: Yup we’re thinking of doing prototypes
+Alexis Lee: @Yanxiao Li  Dear YanXiao, We are having our client meeting today afternoon regarding the project scopes. However , we find it extremely challenging to finish the presentation slides and divide parts by tomorrow morning as some people have other commitments. Is it possible to get an extension for the presentation?  Thank you.
+Alexis Lee: I think it’s good we can ask that during the meeting. And i do agree that we should meet before the zoom meet so we can agree on what we want
+
+
+2023-08-08 00:00:00 week: 1
+Alexis Lee: Allen Burias We’re meeting at 9pm on the day we get task allocations from Eddie. 
+Alexis Lee: I guess then we should finish the presentation and project scope by tomorrow and meet up after we get the project scope to edit the presentation slides for Thursday.
+Alexis Lee: Are we waiting until Monday for replies? One concern is that the Week3 Project Plan &amp; Roles Allocation Presentation is due Monday(14th) 11:59pm and if we don’t get a positive response, we have to rush and allocate scopes with the other groups.
+Alexis Lee: Im free too
+Alexis Lee: What time are we aiming? 5pm?
+Alexis Lee: <https://www.when2meet.com/?20837357-dxG8T>
+Alexis Lee: @Yanxiao Li We have troubles with task allocations as our client wants us to collaborate with other groups. Hence, we are currently waiting for suggestions from the unit coordinator and other tutors. We have noticed that the presentation and project scope statement are due tomorrow can we get extensions on this?
+Alexis Lee: I actually want to change topics :disappointed:
+Alexis Lee: Guys I’m out of this :((
+Alexis Lee: I don’t want to a project that has 23 people working together without source code
+Alexis Lee: Meeting ID: 856 3714 8538
+Alexis Lee: I sent an email regarding left over projects. Lets see how that goes but still be in contact with them.
+Alexis Lee: 1. Expected features to implement (if they don’t specifically assign us) 2. Do we need to communicate and collaborate with other groups for some features?
+Alexis Lee: Pratul is taking it dw
+Alexis Lee: Do we not get the project scope then?
+Alexis Lee: How are we supposed to do the presentation?
+Alexis Lee: Can we do a short meeting after this zoom meet? Just want to discuss about how we should go about this.
+Alexis Lee: R u guys still in?
+Alexis Lee: Sorry guys will check next time :sob: 
+Alexis Lee: Gotcha will check it out!
+Alexis Lee: I guess we can check that in the client meeting
+Alexis Lee: Blank Deed Pool pdf
+Alexis Lee: I think its pinned
+Alexis Lee: 
+Alexis Lee: Oh god i just checked now u guys confirmed
+
+
+2023-08-01 00:00:00 week: 0

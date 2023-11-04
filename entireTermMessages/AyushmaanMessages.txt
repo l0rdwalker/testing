@@ -1,0 +1,57 @@
+
+
+2023-10-24 00:00:00 week: 12
+
+
+2023-10-17 00:00:00 week: 11
+Ayushmaan Tomar: Tips for assignments • Presentation via zoom meeting with special cons if needed.  • Submit research doucments in bitbucket. • For Individual report minor  :- Informal evidence can be used. • For discpline knowledge :- use the evidence of where you applied it.
+Ayushmaan Tomar: Done with acceptance tests and criterias , just need frontend and surveys user stories and demos.
+
+
+2023-10-10 00:00:00 week: 10
+Ayushmaan Tomar: Pratul Singh Raghava Zeeshan Ansari Can you guys do System specification and architecture design (section 2) together William Walker Can you pls do summary part for testing (part 3.3) and parts of the group processes (5.1, 5.2, 5.3) Fawaz Al Khreisha Can you pls do the group processes parts 5.4.2, 5.6, 5.7 5.8, Allen Burias Pls do reflection and conclusions (parts 6.1~6.4) I will do the acceptance criteria and acceptance test
+Ayushmaan Tomar: Allen Burias can you also do acceptance criteria based on your implementation (Slide 7,8)
+Ayushmaan Tomar: Alexis Lee Done with non-functional req and presentation formatting also looks complete , lemme know if anything else is required.
+
+
+2023-10-03 00:00:00 week: 9
+Ayushmaan Tomar: yeahhh , I am doing that rn. Also can you explain the issues with AWS in key issues since thats the biggest one we have
+Ayushmaan Tomar: And also any specific displine knowledge applied
+Ayushmaan Tomar: Anything we can add in testing ?? Rest seems to be done
+Ayushmaan Tomar: Pratul Singh Raghava Alexis Lee just need you guys to write the group work
+
+
+2023-09-26 00:00:00 week: 8
+
+
+2023-09-19 00:00:00 week: 7
+
+
+2023-09-12 00:00:00 week: 6
+
+
+2023-09-05 00:00:00 week: 5
+
+
+2023-08-29 00:00:00 week: 4
+Ayushmaan Tomar: <!everyone> Can you please tell me if you have used any external magic package or algorithms for implementation. I know William has used tensorflow for his , so if some used something similar, please tell me. Need it for the report.
+Ayushmaan Tomar: Alexis Lee I can help with presentation ?? What do you reckon ?
+Ayushmaan Tomar: I am almost done with User stories Overview and Details of System Design. Have a go through it as well and Let me know of any edits needed.
+Ayushmaan Tomar: Alexis Lee I have done my presentation parts, Please have a look, Thanks.
+Ayushmaan Tomar: Allen Burias I wrote the system design for your implementation as well from what we discussed in person. Do check and let me know if I missed anything.
+Ayushmaan Tomar: Reports Correction Points. Do go through them when writing the report
+Ayushmaan Tomar: William Walker will you be able to do System Architecture and Design part of the report ??
+
+
+2023-08-22 00:00:00 week: 3
+
+
+2023-08-15 00:00:00 week: 2
+
+
+2023-08-08 00:00:00 week: 1
+Ayushmaan Tomar: I might have to go in the evening but can still join the meet from phone
+Ayushmaan Tomar: Are there any milestone expectancy you have ?? In terms of which features to prioritise before initial deadline.
+
+
+2023-08-01 00:00:00 week: 0

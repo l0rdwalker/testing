@@ -1,0 +1,101 @@
+
+
+2023-10-24 00:00:00 week: 12
+
+
+2023-10-17 00:00:00 week: 11
+Allen Burias: Forgot to mention earlier but I've put in my stuff for the presentation, gonna be working on my part of the final report over tonight/tomorrow
+Allen Burias: Yea thats what i would think aswell
+Allen Burias: Will make sure to get my stuff done by then
+Allen Burias: Is there any other generic parts that need work?
+
+
+2023-10-10 00:00:00 week: 10
+Allen Burias: cant access the document, says i got no perms
+Allen Burias: Ill add some stuff myself either tonight or tomororw
+Allen Burias: the canva presentation
+Allen Burias: yep all good
+Allen Burias: thanks!
+Allen Burias: Ofc ofc
+
+
+2023-10-03 00:00:00 week: 9
+Allen Burias: Thanks pratul
+Allen Burias: My assumption was work done from the first major report up til now
+
+
+2023-09-26 00:00:00 week: 8
+
+
+2023-09-19 00:00:00 week: 7
+
+
+2023-09-12 00:00:00 week: 6
+Allen Burias: I just have the latest version im pretty sure
+Allen Burias: What kinda problems are you running into?
+Allen Burias: im p sure ur meant to use npm
+Allen Burias: weird
+Allen Burias: it should just be like npm i to install dependencies, then dev run
+Allen Burias: I just forced that ngl
+Allen Burias: I havent run into any issues so far
+Allen Burias: Just installing the npm dependencies
+
+
+2023-09-05 00:00:00 week: 5
+Allen Burias: Darin has let me know that they do not want to implement MFA, so that pretty much kills it unless we find out some way to use a different user pool :disappointed:
+Allen Burias: Zoom works?
+
+
+2023-08-29 00:00:00 week: 4
+Allen Burias: Has anyone run into this?
+Allen Burias: a thousand souls every day for pratul
+Allen Burias: absolute legend
+Allen Burias: Am currently working on the Introduction portion of the big report (just in case someone else might be so we dont double up on work)
+Allen Burias: having a bit of trouble understanding the code's layout so I might ask for a run through tomorrow
+Allen Burias: Oh sorry, for my part i was working locally until I completed it
+Allen Burias: One of the report templaates has our details on the cover sheet and ayush's project specs stuff
+Allen Burias: report introduction is now complete, please feel free to have a look through and revise anything that needs it (I may have missed a few things in the resources and risks sections especially). A few changes from the documents we have before are:  • change mobile OTP scope item to email or mobile OTP • added regional/community/nonprofit organisations as stakeholders • redefined the mission statement from eddie's project brief into a vision statement (I believe its closer to a vision statement than mission, let me know what you guys think). If there are any other parts of the report that need doing/anyone needing help with their parts, let me know and I'll get cracking on it.
+Allen Burias: I've used APA referencing but if we want to use a different style I can change it no probs
+
+
+2023-08-22 00:00:00 week: 3
+
+
+2023-08-15 00:00:00 week: 2
+Allen Burias: Is there anything else needed for the project scope document?
+Allen Burias: I guess we would want to create an experimental version with the research topics if we wanted to tackle those?
+Allen Burias: I took notes as well :laughing:
+Allen Burias: William Walker what was the issue you were running into with setting up the source code?
+Allen Burias: I wonder how research topics would be handled for marking in the unit side?
+
+
+2023-08-08 00:00:00 week: 1
+Allen Burias: Ezpz
+Allen Burias: 
+Allen Burias: from Ed re: issues with client meeting
+Allen Burias: I think our situation is more serious than the client not being available for a meeting so we probably have a valid reason to ask for an extension
+Allen Burias: slack not giving me any notifications from phone, completely missed this
+Allen Burias: slack not giving me any notifications from phone, completely missed this
+Allen Burias: I can join the call but dont have access to a pc right now
+Allen Burias: I was asking if my audio was working :laughing:
+Allen Burias: I can email later when i get home
+Allen Burias: I didnt know if it was appropriate to mention that this definitely isnt what we expected it to be
+Allen Burias: WAIT
+Allen Burias: did he close the meeting
+Allen Burias: have they mentioned a specific framework/stack that's expected to be used? id assume they want us to use the same as what they have now
+Allen Burias: for context, the document says frontend/backend is next/nodejs, and vercel/aws for deployment
+Allen Burias: sorry i totally zoned out and forgot to ask if someone was taking meeting minutes?
+Allen Burias: we need to get these other guys to stay too
+Allen Burias: we need to discuss this asap
+Allen Burias: should be g
+Allen Burias: do you guys think its worth making a private post on ed wrt this
+Allen Burias: i'm especially concerned about how source control will be managed
+Allen Burias: if we're making bitbuckets for each groups and adding the tutor to each one
+Allen Burias: but have to work on a single repo across 4 groups
+Allen Burias: So are we working with the other groups? Or are we all just doing the same thing separately
+Allen Burias: Allen Burias: 0426 878 679
+Allen Burias: I've got a gp appointment then, sorry
+Allen Burias: Just keep me posted if there's anything super important, I was going to work on the XP summary today as well.
+
+
+2023-08-01 00:00:00 week: 0

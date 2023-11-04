@@ -1,0 +1,37 @@
+
+
+2023-09-04 00:00:00 week: 6 : tracker
+William Walker: Sorry to be a bother, but I can't make todays meeting. If someone records it I'll watch it latter to keep in the loop with whats going on
+
+2023-09-11 00:00:00 week: 7 : Doomsayer
+William Walker: I would have assumed so as well, but I run into the same kind of errors if I execute the npm equivalent set of commands
+William Walker: I assume the general steps are ment to be run 'yarn install', then 'yarn run build' and then boot the solution with 'yarn run start'. All the correct keys should already be in place, as I pulled from main.
+William Walker: I'm running into a couple. I can install all the dependency's with yarn just fine. But when I try to build the solution I error out with "warn  - Restarted collecting page data for [object Object] because it took more than 60 seconds". But I cant run yarn start because there is no optimised build. If I try to use npm I just get a tone of dependency conflicts
+
+2023-09-18 00:00:00 week: 8 : Programmer
+William Walker: So, progress. You can *kinda* link question-selections to other questions. It's buggy, the first question isn't detected for some reason, and the actual linkages aren't yet saved to the question set. All off the questions are submitted at once on submit. So I'm highly confident that we can do all the question routeing on the front end. Very pleased.
+William Walker: So, we don't need to run the 'npm run dev' every time we want to display a change. Which for me at least took nearly 20 mins each time
+William Walker: Pog news incoming, I don't know if you guys already figured out this issue. But I've managed to get hot-reloading to work for next.js on the frontend codebase.
+William Walker: I've corrected some AQS API code and now everyone who is an admin should be able to post surveys. But you need to make sure to include your credentials in the admin and MP database. NOT the user groups (well, you need that too) but a table called admin and MP in the DynamoDB tables
+William Walker: Even if you are also an MP and Admin
+William Walker: If you are a citizen then it will not display the new survey related functionality
+William Walker: Oh wait I got it Pratul Singh Raghava, make sure the only user groups you are associated with is MP and Admin
+William Walker: Assuming the correct privileges, how would an admin user create a new survey&gt;
+
+2023-09-25 00:00:00 week: 9 : Tester
+William Walker: The current code for the survey is really very difficult to work with. While I got some rudimentary logic going the degree of effective change is going to be very difficult as is. I've been replicating the survey react components such that we can introduce the new functionality as needed. So far, nearly everything is replicated apart from deleting questions and the smart-linkage between answers the further questions displayed to the user.
+- https://bitbucket.org/PraSiR/soft3888_th08_03_p01/src/RefactoredSurvey/nextjs-frontend-ui/my-nextjs-app/__tests__/ created some basic tests
+
+2023-10-02 00:00:00 week: 10 : Customer Liaison
+William Walker: He stated that he wasn't a fan of needing to select busses and wotnot to verify that he's not a robot. I think he just wants the simple I am not a robot click button.
+William Walker: Sounds like he just hates captcha like systems in general. Not sure if a system exists that he would necessarily like
+William Walker: I think its the older version of captcha he's looking for
+- https://bitbucket.org/PraSiR/soft3888_th08_03_p01/wiki/Client/Week-9
+
+2023-10-09 00:00:00 week: 11 : Manager
+William Walker: Bet bet I'll make sure to be there early
+
+2023-10-16 00:00:00 week: 12 : Doomsayer
+William Walker: I think I've crossed into all three.
+William Walker: All my tests ensure that react components are properly INTERGREATED, archived through UI manipulations by an automated system, within a jest UNIT TESTing framework. I have no idea what category I should put survey related tests.
+William Walker: Na we got zip files the next guys can get zip files. They can inherit our pain.

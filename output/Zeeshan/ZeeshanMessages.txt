@@ -1,0 +1,47 @@
+
+
+2023-10-25 00:00:00 week: 12
+
+
+2023-10-18 00:00:00 week: 11
+
+
+2023-10-11 00:00:00 week: 10
+
+
+2023-10-04 00:00:00 week: 9
+
+
+2023-09-27 00:00:00 week: 8
+
+
+2023-09-20 00:00:00 week: 7
+
+
+2023-09-13 00:00:00 week: 6
+
+
+2023-09-06 00:00:00 week: 5
+
+
+2023-08-30 00:00:00 week: 4
+Zeeshan Ansari (1693465475046129): Ya sure I can do that 
+
+
+2023-08-23 00:00:00 week: 3
+
+
+2023-08-16 00:00:00 week: 2
+Zeeshan Ansari (1692443581456309): You can use the userpoolid as "us-east-1_abcd12345" and clientid as "mock-client-id". This should be able to run few pages that dont require sign in but will not be able to use the data storage stuff.
+Zeeshan Ansari (1692334763407749): I am planning to join 
+
+
+2023-08-09 00:00:00 week: 1
+Zeeshan Ansari (1692004256454659): I am free anything
+Zeeshan Ansari (1691999358009419): Did he provided anyone with access to the asana workspace yet ?
+Zeeshan Ansari (1692001942663899): But till we don’t have asana access we don’t have list of all task along with priority and complexity rating
+Zeeshan Ansari (1691901813159049): I am also free
+
+
+2023-08-02 00:00:00 week: 0
+Zeeshan Ansari (n/a): Zeeshan Ansari has joined the channel

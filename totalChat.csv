@@ -1,0 +1,218 @@
+William Walker,I'm having troubles getting the nextjs-frontend-ui to boot up. What versions of Node are u guys using?
+Alexis Lee,Fawaz Al Khreisha and I will work on ‘RESEARCH: AI Facilitator for Proposal Co-Creation and Iteration’ this extra scope for this week!
+Pratul Singh Raghava,I've created a new UserPool for us to experiment around with security stuff. Here are the new UserPoolID and ClientID :  1. *UserPoolID* : _ap-southeast-2_wWjdafdNy_ 2. *ClientID* : _m25b27nvhnujsjnso51ldqto7_ You can change these in : _nextjs-frontend-ui/src/aws/cognito/UserPool.ts_
+Ayushmaan Tomar,"Client meeting Recording :- 12th September 2023, 4:00 pm"
+William Walker,<https://us05web.zoom.us/j/87287391816?pwd=MwGkhySORHnfOnvpA14olCEXMjbwJS.1>
+Fawaz Al Khreisha,Yeah zoom is fine
+Allen Burias,Zoom works?
+William Walker,Facebook? Zoom?
+Pratul Singh Raghava,Yep its because our Pro plan ended
+William Walker,Apparently I can't join the huddle
+William Walker,Apparently I can't join the huddle
+Fawaz Al Khreisha,Looks good thanks for doing it
+Alexis Lee,<https://www.canva.com/design/DAFttv7ZCL8/2KRZuq6Zpb_9EIibT3LLdg/edit?utm_content=DAFttv7ZCL8&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton|https://www.canva.com/design/DAFttv7ZCL8/2KRZuq6Zpb_9EIibT3LLdg/edit?utm_content=DA[…]m_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton> I tried it with the canva slides but a version of it is in the W8 presentation folder
+Alexis Lee,I’ve created the slides for the client demo presentation. Can everyone have a look and see if it needs anything added or is missing something from the criteria?
+Allen Burias,"Darin has let me know that they do not want to implement MFA, so that pretty much kills it unless we find out some way to use a different user pool :disappointed:"
+Allen Burias,I've put out an announcement regarding the MFA stuff. Did anyone need any help with their parts in the meantime? Wanna confirm first if we can keep the feature or not before continuing working on it.
+Pratul Singh Raghava,Client Meeting : 05 Sep 4PM
+Pratul Singh Raghava,F16_02 : The other group that could have caused the AWS issue
+Pratul Singh Raghava,<https://uni-sydney.zoom.us/j/83849668559>
+William Walker,"Doesn't have to be those specific questions, but that kinda thing. Just more context on how he envisions the fully implemented system"
+William Walker,I was hoping to talk about the current state/plan for moderation. E.g. how exactly automatic moderation will be used in a practical sense. Will human-moderators have access to a separate window to view flagged messages? Will human-moderators be able to view all flagged messages or just those in their local area? Do we want content flagged with a high degree of certainty to be removed immediately. Stuff in that general domain.
+Allen Burias,Was there anything important you wanted to discuss today? We can bring it up if there is
+William Walker,"Sorry to be a bother, but I can't make todays meeting. If someone records it I'll watch it latter to keep in the loop with whats going on"
+Allen Burias,"Reminder: I accidentally made submissions to the Weeks 6-13 group contract, will have to make a resubmission sometime this week to rectify this (sorry haha)"
+Ayushmaan Tomar,"No worries , We can have discussion about it on Wednesday and try for any alternate solutions."
+Allen Burias,"I've pretty much finished all the parts related with the MFA functionality. Unfortunately there was not much that I could test wrt its functionality (due to the possible conflict with other groups with Cognito MFA), I've mentioned this wherever relevant and will be speaking to Eddie about it tomorrow (and with the other groups later). I'll be looking into the user verification through digital id or SSO implementation if we end up having to scrap the MFA functionality."
+Ayushmaan Tomar,"Done with user stories and made changes,  individual , and rest everything mentioned up"
+Allen Burias,ive gollowed the nextjs environment variable setup steps but it seems im not able to access them
+Allen Burias,Pratul Singh Raghava do you know if environment variables are meant to go somewhere specific for the nextjs frontend?
+Allen Burias,"Marks wise we did pretty well last progressive report, just have to remember to put in individual contribs"
+Allen Burias,Definitely yeah
+Pratul Singh Raghava,Especially for the individual reports
+Pratul Singh Raghava,"One thing I've realised is that it's better to do this report stuff as we go along, instead of rushing it at the end"
+Alexis Lee,Yup but i kinda wanna get this done before midsem starts
+Allen Burias,Week 9 is after midsem right?
+Alexis Lee,Guys I just realized we have another progress report and a presentation for week9 (Oct 4) :smiling_face_with_tear: 
+William Walker,"If you go to surveys there should be a new one called *Guys, lemme know how epic I be. - William*"
+William Walker,"Was able to create a new survey (through the backend), edit questions and submit response."
+William Walker,"When running npm run dev, eventually it just refers me to '<https://about.itsourvoice.com/>'. If I try and load the url <http://localhost:3000/api/hello> to view all routes it takes me to a 404. Any suggestions of a specific entry url?"
+Pratul Singh Raghava,Oh yeah for this error just go `npm install i --force`
+Allen Burias,Just installing the npm dependencies
+William Walker,I remember being able to build it weeks ago tbh
+William Walker,Did you need to build the project before you could run it? Or did it just pop off out of the box?
+Allen Burias,I havent run into any issues so far
+Allen Burias,I just forced that ngl
+William Walker,Yea na fam. I think my npm version is not aokay. I'll try updating and report back
+Allen Burias,"it should just be like npm i to install dependencies, then dev run"
+Allen Burias,weird
+William Walker,"I would have assumed so as well, but I run into the same kind of errors if I execute the npm equivalent set of commands"
+Allen Burias,im p sure ur meant to use npm
+William Walker,"I assume the general steps are ment to be run 'yarn install', then 'yarn run build' and then boot the solution with 'yarn run start'. All the correct keys should already be in place, as I pulled from main."
+William Walker,"I'm running into a couple. I can install all the dependency's with yarn just fine. But when I try to build the solution I error out with ""warn  - Restarted collecting page data for [object Object] because it took more than 60 seconds"". But I cant run yarn start because there is no optimised build. If I try to use npm I just get a tone of dependency conflicts"
+Pratul Singh Raghava,Did somebody call tech support?:saluting_face:
+Allen Burias,What kinda problems are you running into?
+Allen Burias,I just have the latest version im pretty sure
+Ayushmaan Tomar,It's best I do that with you
+Ayushmaan Tomar,I have written what all it's needed in security research document but summary of that is to create new lambda function using SES and add a trigger in user pool.
+Ayushmaan Tomar,Pratul Singh Raghava I have written the code for new user login but it needs to add something to user pool base.
+Pratul Singh Raghava,William Walker Are you working with the `stg-surveys` table on DynamoDB or `Surveys`?
+Pratul Singh Raghava,"Hmmm seems complicated, why don't you show it to me before or after the client meeting if you're free"
+Allen Burias,I need to pass the secret key for my recaptcha to a post request to google
+Pratul Singh Raghava,What's your requirement exactly? What do you want to use?
+Pratul Singh Raghava,"The environment variables are supposed to be added to the vercel platform so that the code can use it when being hosted, but since we're running this locally rather than on Vercel, it's a bit different"
+Allen Burias,ive gollowed the nextjs environment variable setup steps but it seems im not able to access them
+Fawaz Al Khreisha,Will work on it as well!
+Allen Burias,Will be on it tonight!
+Alexis Lee,The progress report is almost done. We just need to fill in the green highlighted parts and the individual contributions parts. Its due Oct 4th with the presentation so we do have time. Ayushmaan Tomar Hows the presentation going?
+William Walker,"This is what I've got so far for the replicated, refactored survey. Visual elements will follow functionality."
+William Walker,Should we have a meeting tomorrow just to touch base?
+William Walker,I have pushed these changes to a new branch
+William Walker,"The current code for the survey is really very difficult to work with. While I got some rudimentary logic going the degree of effective change is going to be very difficult as is. I've been replicating the survey react components such that we can introduce the new functionality as needed. So far, nearly everything is replicated apart from deleting questions and the smart-linkage between answers the further questions displayed to the user."
+William Walker,"So, progress. You can *kinda* link question-selections to other questions. It's buggy, the first question isn't detected for some reason, and the actual linkages aren't yet saved to the question set. All off the questions are submitted at once on submit. So I'm highly confident that we can do all the question routeing on the front end. Very pleased."
+William Walker,"So, we don't need to run the 'npm run dev' every time we want to display a change. Which for me at least took nearly 20 mins each time"
+William Walker,"Pog news incoming, I don't know if you guys already figured out this issue. But I've managed to get hot-reloading to work for next.js on the frontend codebase."
+William Walker,"I've corrected some AQS API code and now everyone who is an admin should be able to post surveys. But you need to make sure to include your credentials in the admin and MP database. NOT the user groups (well, you need that too) but a table called admin and MP in the DynamoDB tables"
+Pratul Singh Raghava,Ah I see
+William Walker,Even if you are also an MP and Admin
+William Walker,If you are a citizen then it will not display the new survey related functionality
+William Walker,"Oh wait I got it Pratul Singh Raghava, make sure the only user groups you are associated with is MP and Admin"
+William Walker,"Assuming the correct privileges, how would an admin user create a new survey&gt;"
+Alexis Lee,Me and Fawaz Al Khreisha basically worked on the researched on the benefits and drawbacks on co-creation and what prototypes we can create for the scope. We are planning to implement prototypes for them in the following week and maybe apply it to the actual codebase to see how it works :)
+Pratul Singh Raghava,Here's the link to the Figma designs for the Surveys page : <https://www.figma.com/file/rSJ2K8E09pb7nUAF1Tdjpz/Untitled?type=design&amp;node-id=0%3A1&amp;mode=design&amp;t=DcovvxMZgd5rDsSZ-1>
+Alexis Lee,Weirdddd :scream: 
+Pratul Singh Raghava,"In that case, it doesn't make sense to have XP roles for Week 12 and Week 13"
+Pratul Singh Raghava,I just realised that the project development will only go on till Week 11 since the Final Report is due on the monday of Week 12
+Pratul Singh Raghava,"I expected it to be, but it was just yet another version of the website that we haven't seen so far"
+Pratul Singh Raghava,Surprisingly not
+Allen Burias,Is it hooked up to the staging site?
+Pratul Singh Raghava,So no help
+Pratul Singh Raghava,He showed me the Vercel page he had access to but it has no git repository linked to it and no environment variables in it as well
+Pratul Singh Raghava,"I'm meeting with Eddie again right now, if anybody wants to join : <https://uni-sydney.zoom.us/j/82773840176>"
+Pratul Singh Raghava,This is the meeting link : <https://us05web.zoom.us/j/82649592569?pwd=2ijREXi1OkypH6AZhcfw1S4TnyiPFb.1>
+William Walker,He stated that he wasn't a fan of needing to select busses and wotnot to verify that he's not a robot. I think he just wants the simple I am not a robot click button.
+Allen Burias,"Interesting, what did he say about captcha specifically?"
+Pratul Singh Raghava,"Notes from today's meeting :  1. _ReCAPTCHA_ :     a. Client not very keen about the current implementation     b. Client wants us to explore alternative options that are not picture selection based 2. _Figma Designs_ :     a. Client impressed with current designs     b. Client asked us to refer to the figma designs supplied with the codebase as well 3. _Moderation Demo_ :      a. Client impressed with the prototype     b. Client inquired about the model used to implement it     c. No further comments on it by the Client 4. _Documentation_ :      a. Client would highly appreciate if we could document our work     b. Basically, make a document outlining everything we have changed with the code     c. Also, document changes made to and learnings about AWS"
+Pratul Singh Raghava,"William Walker Just a reminder, you will have to start the meeting yourself before everybody else can join"
+Pratul Singh Raghava,I just discovered yet another version of this website : <https://feature-dev-config.d19m3wnttsadv3.amplifyapp.com>
+Pratul Singh Raghava,"Sure, I'll do that!"
+Fawaz Al Khreisha,Ive got my tut at 2 but if you guys could want to just play the video on the google drive i have of the moderation front end prototype instead of the news one because I haven't finished that one yet
+Pratul Singh Raghava,Our agenda for today's meeting is :  1. Showcase prototype for Proposal Creation (Alexis) 2. Showcase prototype for Summarising News Updates (Fawaz) 3. Discuss ReCAPTCHA limitations (Allen) 4. Showcase Figma designs for UI (Zeeshan) 5. Showcase progress on Logic Flow in Proposals (William) 6. Discuss efforts in running AWS locally (Pratul) 7. Discuss progress in New User Login Notification System (Ayushmaan)
+Pratul Singh Raghava,"Once again, the meeting details are :  Link : <https://us05web.zoom.us/j/82649592569?pwd=2ijREXi1OkypH6AZhcfw1S4TnyiPFb.1> Password : 9Hkwp2"
+Pratul Singh Raghava,Our client meeting for today will be at 2:15 instead of 2:00 as per the client's request
+Ayushmaan Tomar,Lemme know if anything else is needed
+Ayushmaan Tomar,"Almost done with presentation , here's the link"
+Ayushmaan Tomar,<https://www.canva.com/design/DAFvBqu_k7o/s4hvMcKB23Yp98WVzQbIwA/edit?utm_content=DAFvBqu_k7o&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton|https://www.canva.com/design/DAFvBqu_k7o/s4hvMcKB23Yp98WVzQbIwA/edit?utm_content=DA[…]m_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton>
+Allen Burias,My assumption was work done from the first major report up til now
+William Walker,"For the group work section of the presentation, we're meant to discuss what we're planning to do in the coming weeks? Or what we have done in the past couple weeks?&gt;"
+Allen Burias,I may need something similar in order to verify tokens for captcha
+Allen Burias,Ayushmaan Tomar do you have a link to the lambda function you created for user logins? curious to see how you were able to implement it
+William Walker,These slides look great! I'll chuck in all the survey related stuff we have so far
+Allen Burias,Ayush sent a link to canva here earlier
+William Walker,Does anyone know where the presentation slides are? I wanna add to them
+William Walker,I have no idea
+William Walker,Tbh I saw others doing it that way and thought I should do the same
+Pratul Singh Raghava,"Is there a particular reason why we are putting pictures in-text, instead of linking them to the appendix?"
+Allen Burias,"Same, sorry for the delay"
+Pratul Singh Raghava,"Sure thing, I'm on it!"
+Ayushmaan Tomar,"Ez , thanks for the heads up"
+Zeeshan Ansari,Ya I will complete my part before tomorrow morning so that there is no delay in the report
+Ayushmaan Tomar,Finished my Individual part and group part is also seems to be done so have a look through that as well.
+Ayushmaan Tomar,Pratul Singh Raghava Zeeshan Ansari Allen Burias Your Individual part is still left so complete that asap since progress report is due tomorrow.
+Fawaz Al Khreisha,So no required changes for the moderation feature right?
+Allen Burias,"Ill look into it, thanks"
+Allen Burias,"Its kinda funny, the first results that pop up when you google ""slider captchas"" are tutorials that tell you how to bypass them with JS scripts"
+Allen Burias,Im aware of the type
+Pratul Singh Raghava,"He gave the example of a supposed method that AliBaba uses which is just like a slider, but he just said look into more options"
+William Walker,Sounds like he just hates captcha like systems in general. Not sure if a system exists that he would necessarily like
+Pratul Singh Raghava,"So overall, he wasn't very clear about what he wants but its definitely not the current implementation"
+Pratul Singh Raghava,I think he said he wasn't keen on the old text captcha because at times he couldn't understand what it was
+Allen Burias,Because those are very easy to bypass with bots now
+Allen Burias,I was hoping he wouldnt say he prefers the really old kind of captcha with warbled text
+Allen Burias,"Ah I see, that should be easy to change"
+William Walker,I think its the older version of captcha he's looking for
+William Walker,I’ll discuss the current survey progression alongside a quick demonstration 
+Pratul Singh Raghava,I'll talk about my documentation efforts and the review of the other team's code
+Alexis Lee,Do we all know what we need to talk about for the meeting?
+William Walker,Bet bet I'll make sure to be there early
+Pratul Singh Raghava,"Just a reminder people, Client Meeting at 2PM today!"
+William Walker,"Survey components have been refactored. Needs some additional style adjustments, specially for the complex logic required for checkboxes. There's no error checking yet. Which will be a, whole thing in of itself."
+Pratul Singh Raghava,"Namely, documentation & research on proposals, i.e. how to make them better"
+Pratul Singh Raghava,My opinion is that we are better off working with what we have right now and just developing the new user stories that Eddie gave us
+Pratul Singh Raghava,"The main feature they were unable to simulate locally was Cognito, which is something we are working with heavily for two of our user stories"
+Pratul Singh Raghava,My initial assessment is that its not really of any help to us
+Pratul Singh Raghava,I have been researching and analysing the code shared by the other group wherein they have run the code locally
+Fawaz Al Khreisha,Week 9 tutor and in-lab meeting minutes uploaded on bitbucket wiki
+Allen Burias,Thanks pratul
+Pratul Singh Raghava,I've submitted the formatted report and presentation
+Pratul Singh Raghava,I'm just finishing off the formatting of the report
+Pratul Singh Raghava,The report and presentation are good to go
+Pratul Singh Raghava,"It's all good, everything's done"
+Alexis Lee,Is there anything i can help with 
+Alexis Lee,Sorry just woke up. Whats the group work part? 
+Pratul Singh Raghava,"What does ""External APIs might not work"" pertain to?"
+Pratul Singh Raghava,Sure
+Ayushmaan Tomar,"yeahhh , I am doing that rn. Also can you explain the issues with AWS in key issues since thats the biggest one we have"
+Pratul Singh Raghava,Should we just fill in Alexis' part for her since she's sick?
+Pratul Singh Raghava,On it:saluting_face:
+Ayushmaan Tomar,Pratul Singh Raghava Alexis Lee just need you guys to write the group work
+Ayushmaan Tomar,Anything we can add in testing ?? Rest seems to be done
+Ayushmaan Tomar,And also any specific displine knowledge applied
+William Walker,bet bet
+Alexis Lee,I just started on the final report. I’ve added in extra parts to the intro cuz we got some points off of that and added one more section to the exisiting ‘discipline knowledge and tools’ section.
+Fawaz Al Khreisha,Yep will do
+William Walker,"Can do, I’m hoping to finalize some development on survey stuff tomorrow before doing so. "
+Ayushmaan Tomar,"Alexis Lee Done with non-functional req and presentation formatting also looks complete , lemme know if anything else is required."
+Allen Burias,Ofc ofc
+Ayushmaan Tomar,"Allen Burias can you also do acceptance criteria based on your implementation (Slide 7,8)"
+Alexis Lee,Allen Burias Fawaz Al Khreisha William Walker: Can you guys add the demo videos your part in the ppt? It would be great if its short as possible! Fawaz Al Khreisha: Can you add a user story formatted functional requirement bullet point for your work? I wasn’t too sure what your part does since u changed it :sweat: Ayushmaan Tomar: Can you add points for non-functional slides in user story format for the new stuff we are demoing? Pratul Singh Raghava: Can you add screenshots of the final(?) code document and add the system architecture? If we do this we’re done with the ppt. It would be great it everyone can check the rest of the stuff. Thanks :))
+Allen Burias,thanks!
+Allen Burias,yep all good
+Alexis Lee,I think its fixed now. Can someone check please?
+Alexis Lee,Ooops I’ll fix that
+Allen Burias,the canva presentation
+Alexis Lee,Allen Burias Which document are you talking about?
+Alexis Lee,Can the remaining people start on the final report for this week while doing more research for surveys etc.?
+Allen Burias,Ill add some stuff myself either tonight or tomororw
+Allen Burias,"cant access the document, says i got no perms"
+Alexis Lee,Me and Ayush are almost done with the presentation except for the system architecture part which Pratul Singh Raghava can do whilst doing the final documentation thing.
+Fawaz Al Khreisha,Week 10 tutor and in-lab meeting minutes uploaded on bitbucket wiki
+Allen Burias,Break room a bit busy so ill probably mute
+Pratul Singh Raghava,Link : <https://us05web.zoom.us/j/82649592569?pwd=2ijREXi1OkypH6AZhcfw1S4TnyiPFb.1> Password : 9Hkwp2
+Alexis Lee,"Oh my, we should def start early and apply those feedbacks "
+William Walker,Fuck me ok 
+Pratul Singh Raghava,Especially since these are all worth double the marks than the ones before
+Pratul Singh Raghava,"Yep, just need to make the required modifications as per the tutor feedback"
+Alexis Lee,The group and individual report should have the same format as last time right? Should get a head start on those?
+Pratul Singh Raghava,We have :  1. Final Group Report : 23rd Oct (W12 Monday) 2. Final Client Demo : 24th Oct (W12 Tuesday) 3. Final Project Presentation : 26th Oct (W12 Thursday) 4. Final Individual Report : 30th Oct (W13 Monday) [Extendable with Simple Extension]
+Alexis Lee,We don’t have anything due till W11 (Oct23rd) right 
+Alexis Lee,Sounds good :+1:  
+Pratul Singh Raghava,Yeah we need to package the code in a deployable version and ask Eddie how he wants it
+Allen Burias,I know some groups' clients legit lost the codebase that they got given from capstones and had to dig for it
+Allen Burias,And then eddie to other groups
+Allen Burias,Us to eddie
+Pratul Singh Raghava,Could you elaborate on what exactly you mean? Like transferring the repository from us to future developers?
+Allen Burias,"Additionally, would anyone be able to bring up the topic of transferring ownership of the repository today? I know its been a big issue from my friends' previous experience and its something worthwhile to talk about in the final presentation/demo"
+Allen Burias,Wed next week would be fantastic
+Allen Burias,"May not be able to come today, same deal with the break room being busy"
+Pratul Singh Raghava,Let's ask Eddie first and then we can send him a calendar invitation later
+Pratul Singh Raghava,Yeah
+Alexis Lee,Is everyone okay with wed 2pm?
+Alexis Lee,I think we do
+Allen Burias,Do we still have a meeting today?
+Allen Burias,Free all weds
+William Walker,But if there is no better time I can try and make today work
+William Walker,"Honestly, Wednesday, Thursdays or Fridays before 7:30 works fine for me"
+Alexis Lee,"I havent asked yet but i think after 6 would be too late. If everyone’s okay, we can do another day. Do we have a preference?"
+William Walker,"Just saw this, 4pm can work if it has too, but I’d really prefer a different time. I technically have a commitment between 4-6. However, if it’s already organized I can make it work if necessary "
+Alexis Lee,Is everyone ok for Tues 4pm?
+Alexis Lee,Yuppp i might just text him in advance cuz this is important 
+Pratul Singh Raghava,"He was happy to do it at 4PM last time, but we will have to let him know that the meeting will go on for at least an hour"
+Pratul Singh Raghava,"Oh yeah, I forgot about that"
+Alexis Lee,Oh plus we have the info quiz next week too so may want to have it at least an hr later than 2pm
+Pratul Singh Raghava,"Of course, go ahead XD"
+Alexis Lee,Can i ask cuz im Liaison XD
+Pratul Singh Raghava,Let's ask Eddie tomorrow if he's okay doing it next Tuesday
+Alexis Lee,Do we have a preference on when we should do for the client demo? It should be done by 27th (w12).
+Ayushmaan Tomar,"Pratul Singh Raghava Zeeshan Ansari Can you guys do System specification and architecture design (section 2) together William Walker Can you pls do summary part for testing (part 3.3) and parts of the group processes (5.1, 5.2, 5.3) Fawaz Al Khreisha Can you pls do the group processes parts 5.4.2, 5.6, 5.7 5.8, Allen Burias Pls do reflection and conclusions (parts 6.1~6.4) I will do the acceptance criteria and acceptance test"
+Allen Burias,Is there any other generic parts that need work?

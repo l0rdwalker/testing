@@ -1,0 +1,136 @@
+2023-10-17 00:00:00 week: 11
+William Walker: My guess would be something like 'As a user, I want to be able to change the title of the survey, so that I can provide an appropriate title for the survey', I'd include a screen shot of the onscreen element which is editable, in accordance to the use story.
+William Walker: All my tests ensure that react components are properly INTERGREATED, archived through UI manipulations by an automated system, within a jest UNIT TESTing framework. I have no idea what category I should put survey related tests.
+William Walker: I think I've crossed into all three.
+
+
+2023-10-10 00:00:00 week: 10
+William Walker: Can do, I’m hoping to finalize some development on survey stuff tomorrow before doing so. 
+
+
+2023-10-03 00:00:00 week: 9
+William Walker: For the group work section of the presentation, we're meant to discuss what we're planning to do in the coming weeks? Or what we have done in the past couple weeks?&gt;
+William Walker: bet bet
+
+
+2023-09-26 00:00:00 week: 8
+William Walker: The current code for the survey is really very difficult to work with. While I got some rudimentary logic going the degree of effective change is going to be very difficult as is. I've been replicating the survey react components such that we can introduce the new functionality as needed. So far, nearly everything is replicated apart from deleting questions and the smart-linkage between answers the further questions displayed to the user.
+William Walker: I have pushed these changes to a new branch
+William Walker: Should we have a meeting tomorrow just to touch base?
+William Walker: This is what I've got so far for the replicated, refactored survey. Visual elements will follow functionality.
+
+
+2023-09-19 00:00:00 week: 7
+William Walker: I've corrected some AQS API code and now everyone who is an admin should be able to post surveys. But you need to make sure to include your credentials in the admin and MP database. NOT the user groups (well, you need that too) but a table called admin and MP in the DynamoDB tables
+William Walker: Pog news incoming, I don't know if you guys already figured out this issue. But I've managed to get hot-reloading to work for next.js on the frontend codebase.
+William Walker: So, we don't need to run the 'npm run dev' every time we want to display a change. Which for me at least took nearly 20 mins each time
+William Walker: So, progress. You can *kinda* link question-selections to other questions. It's buggy, the first question isn't detected for some reason, and the actual linkages aren't yet saved to the question set. All off the questions are submitted at once on submit. So I'm highly confident that we can do all the question routeing on the front end. Very pleased.
+William Walker: Assuming the correct privileges, how would an admin user create a new survey&gt;
+William Walker: Oh wait I got it Pratul Singh Raghava, make sure the only user groups you are associated with is MP and Admin
+William Walker: If you are a citizen then it will not display the new survey related functionality
+William Walker: Even if you are also an MP and Admin
+
+
+2023-09-12 00:00:00 week: 6
+William Walker: I'm having troubles getting the nextjs-frontend-ui to boot up. What versions of Node are u guys using?
+William Walker: I'm running into a couple. I can install all the dependency's with yarn just fine. But when I try to build the solution I error out with "warn  - Restarted collecting page data for [object Object] because it took more than 60 seconds". But I cant run yarn start because there is no optimised build. If I try to use npm I just get a tone of dependency conflicts
+William Walker: I assume the general steps are ment to be run 'yarn install', then 'yarn run build' and then boot the solution with 'yarn run start'. All the correct keys should already be in place, as I pulled from main.
+William Walker: I would have assumed so as well, but I run into the same kind of errors if I execute the npm equivalent set of commands
+William Walker: Yea na fam. I think my npm version is not aokay. I'll try updating and report back
+William Walker: Did you need to build the project before you could run it? Or did it just pop off out of the box?
+William Walker: I remember being able to build it weeks ago tbh
+
+
+2023-09-05 00:00:00 week: 5
+William Walker: Apparently I can't join the huddle
+William Walker: Apparently I can't join the huddle
+William Walker: Facebook? Zoom?
+William Walker: <https://us05web.zoom.us/j/87287391816?pwd=MwGkhySORHnfOnvpA14olCEXMjbwJS.1>
+
+
+2023-08-29 00:00:00 week: 4
+William Walker: Can do! Will have done before monday
+William Walker: Alexis Lee just an update, I've nearly finished testing for the model. Going to finish my parts of the report later tonight
+William Walker: Model is chugging along nicely
+William Walker: I've put a good amount of work down on the moderation document, those involved have a look over it to make sure your pleased with whats there
+William Walker: Your a living god, and should be crowed god king emperor of this codebase
+William Walker: honest to god
+William Walker: Yea I can take that up
+
+
+2023-08-22 00:00:00 week: 3
+William Walker: Alexis Lee Yea I can do that
+William Walker: Got a chatGPT moderation test thing working, I shall push to another branch
+William Walker: Just a general update on my progress. I've setup a basic test environment to explore how we might implement new features into the code base once we have that up and running. I've setup a function that can take the body paragraph of a message return a true/false boolean in json based on if it brakes TOS. It submits it through the ChatGPT API, alongside TOS the TOS policy's loaded in a .env file. Works reasonably well but still needs refinement.
+William Walker: For user verification, I found that the Australian Electoral Commission will occasionally provide access to their data for research. We may qualify. If so, we can have users enter in their details which are already registered on their system, and if they exist on the electorate register then we can automatically determine which electorate they're in and validate that they're an authentic Australian.
+William Walker: HELL YEA MAN! 
+William Walker: This is hella massive 
+William Walker: Does this mean you’ve got the client and poolid almost sorted?
+William Walker: No wait of cause it does 
+William Walker: I’m silly didn’t look at the first image 
+William Walker: This is fantastic!!!
+William Walker: That is unbelievably annoying 
+William Walker: This is hype, I really think your the first person to crack it out of all the groups 
+William Walker: Very very real possibility 
+William Walker: Oh yo I’m actually exited to start working on it for real 
+William Walker: Oh lol that could be a whole can of worms. We’ll go over those fine details tomorrow 
+
+
+2023-08-15 00:00:00 week: 2
+William Walker: I've uploaded the code base onto the repo. Each of the main folders has their own readme for setup. There doesn't seem to be much else documentation outside of that.
+William Walker: Just make sure you have an up to date version of Node.js.
+William Walker: Oh sick I took some notes too, but they're pretty piss poor ngl
+William Walker: We are on top of this
+William Walker: True, not a bad idea
+William Walker: Where do we go from here tho? Not sure tbh what we do next
+William Walker: Atm I am just trying to get the react/next.js stuff off the ground. It wants a 'poolid' and 'userid', which I'm not sure where to find.
+William Walker: I'll keep playing around with it tho, maybe u guys will have a better chance at getting everything setup and ready to go
+William Walker: <https://trello.com/invite/b/qffbfCWU/ATTI42f25e7aaf6f14b300be6ae8685c6d43909B11D8/capstone>
+William Walker: Should I ask Eddie if any pre-existing documentation exists for the codebase? Or should I not bother
+William Walker: Does 1 work?
+William Walker: Even if everyone can't make it, it'll ensure we're somewhat prepared
+William Walker: I can do that, gemme a sec tho I gotta find a quiet spot
+William Walker: Sorry for the delay, I've started a call thang
+William Walker: Sorry for the delay, I've started a call thang
+William Walker: FRONTEND Dark theme Improve the Search Functionality and present search results as a feed / in the feed Create Distinct pages for Proposals review and voting page  SECURITY/IDENTITY Alert users of a new login mobile number through an OTP User Identify Verification  MODERATION AI Based Flagging System Moderation - add a new account type called Moderator that gives them additional permissions to delete posts that are problematic and reviewing posts flagged as abusive by users
+
+
+2023-08-08 00:00:00 week: 1
+William Walker: Curtesy of Pratul Singh Raghava
+William Walker: I think thats fair, we don't have any tasks to even make a scope
+William Walker: Are gonna have a call later to finish everything off? At least what we can finish off?
+William Walker: I'm free around 5, but can do earlier if needed
+William Walker: Ready to go?
+William Walker: How do we group call lol
+William Walker: With one main one that brings everything together
+William Walker: I don't think there's much we can do about that
+William Walker: I've been keeping track
+William Walker: all g homie
+William Walker: Holy shit is there no git?
+William Walker: No repos at all?
+William Walker: Surely not
+William Walker: !!!!
+William Walker: Jesus christ he ended the meeting
+William Walker: fuck me
+William Walker: Ok
+William Walker: Lets have a call
+William Walker: Yo I created a new slack workspace. Someone may have already done this, we don't even need to use it if we don't want to. but I thought It would def make life easier for everyone if we could have better communication with the other groups.
+William Walker: <https://join.slack.com/t/slack-5sq8463/shared_invite/zt-21dhjww8g-YQ6T2CTeCUi7PBShoZCuuQ>
+William Walker: • We presented our concerns to the client regarding the inter-group communication hassle • Client not very keen on every group developing their own version • Client will be contacting the unit coordinator with regards to the plan moving forward • Further decision will be made after client-coordinator meeting • We requested the client to set up a repository so we can get the source code     ◦ Client said he doesn’t know how to set up a repository :smiling_face_with_tear: • Suggested plan for moving forward is for random distribution of tasks among all teams so that each team can start working independently • Last week of the project will be set aside for integration of the features designed by each team 
+William Walker: (Main meeting points)
+William Walker: Do we want to make the mega group? Could make our group distinct from the others
+William Walker: I have no idea
+William Walker: That might be the go, didn't realize we'd need to organise ourselves so much
+William Walker: Maybe we can ask for emails
+William Walker: Fuck me true
+William Walker: Surely there'll be someone above us who can help with that
+William Walker: There will likely be many repos for individual functionality
+William Walker: I'll be able to make it, also gonna be a tad late to lab. Went to the wrong building completely
+William Walker: Should be there in less then 10
+William Walker: William Walker: 0455 697 555
+William Walker: <https://docs.google.com/document/d/1-epRxoq6NUhqxJqmt6qFbHyIFkKa86tg7S2vp5PDUSM/edit?usp=sharing>
+William Walker: Does anyone have the zoom link for 2pm?
+William Walker: I am all good for 12 today on zoom, I can do late tonight though
+William Walker: Fair, I'm pretty much ready
+William Walker: I'm ready to go
+William Walker: No wokkers
